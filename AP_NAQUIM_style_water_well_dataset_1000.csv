@@ -1,0 +1,1001 @@
+District,Location,Latitude,Longitude,Lithology,Aquifer_Type,Expected_WBZ_Depth_m,Water_Level_m,Expected_Discharge_LPM,pH,EC_uS_cm,Hardness_mg_L,Nitrate_mg_L,Fluoride_mg_L,Recommended_Drilling,Well_Suitability,Expected_Water_Quality
+Prakasam,Site-0001,16.138,82.4809,Alluvium,Semi-confined,115,8.69,433,8.06,750,220,99,1.82,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0002,16.1431,78.8406,Limestone,Unconfined,284,10.19,234,6.61,1959,680,22,0.86,Down-the-Hole,Suitable,Good
+West Godavari,Site-0003,17.0447,77.8073,Alluvium,Unconfined,52,17.46,56,6.99,1166,472,50,1.86,Percussion Drilling,Not Suitable,Good
+East Godavari,Site-0004,17.8187,81.9981,Alluvium,Fractured,144,7.79,263,8.33,855,377,10,1.23,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0005,14.0761,82.6304,Granite,Fractured,65,17.79,493,7.06,1930,418,42,0.36,Auger Drilling,Suitable,Good
+Prakasam,Site-0006,14.204,80.9466,Sandstone,Confined,267,8.63,302,8.5,1789,300,94,1.82,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0007,18.5944,77.1674,Limestone,Semi-confined,34,19.12,50,8.02,970,414,14,0.57,Percussion Drilling,Not Suitable,Moderate
+Krishna,Site-0008,18.7671,83.8079,Basalt,Semi-confined,77,2.79,168,8.29,1264,522,90,1.81,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0009,16.4846,80.538,Alluvium,Fractured,68,12.65,81,7.37,467,342,38,0.67,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0010,14.9083,78.9037,Granite,Confined,99,16.04,349,6.72,416,268,58,1.04,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0011,15.1497,82.3924,Shale,Semi-confined,267,6.77,111,6.68,1853,411,91,1.45,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0012,13.8899,81.9781,Sandstone,Fractured,292,2.88,203,7.02,556,131,52,1.74,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0013,13.6114,82.5567,Granite,Unconfined,61,16.95,163,6.76,1886,510,48,1.44,Rotary Drilling,Suitable,Poor
+West Godavari,Site-0014,14.5529,82.6892,Granite,Unconfined,131,18.24,277,8.12,388,439,16,0.28,Auger Drilling,Not Suitable,Good
+Kadapa,Site-0015,18.5448,80.0321,Alluvium,Fractured,284,2.53,399,7.35,924,319,24,0.69,Auger Drilling,Suitable,Good
+Anantapur,Site-0016,16.6846,81.3188,Alluvium,Semi-confined,285,9.42,331,7.46,379,386,50,0.45,Percussion Drilling,Not Suitable,Poor
+East Godavari,Site-0017,14.4949,83.9586,Limestone,Unconfined,225,16.07,233,7.46,1800,596,45,1.84,Down-the-Hole,Suitable,Moderate
+Guntur,Site-0018,14.0789,79.2321,Basalt,Unconfined,173,3.05,291,7.56,1770,698,30,1.95,Rotary Drilling,Suitable,Good
+Kurnool,Site-0019,14.5992,82.714,Alluvium,Unconfined,142,12.36,458,7.28,1918,277,23,0.63,Down-the-Hole,Suitable,Poor
+Prakasam,Site-0020,18.4839,77.1974,Alluvium,Semi-confined,102,12.14,146,8.17,1859,604,70,0.76,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0021,13.337,81.2116,Granite,Fractured,30,7.97,364,6.9,467,448,92,0.52,Down-the-Hole,Not Suitable,Good
+Anantapur,Site-0022,13.8863,81.9329,Basalt,Unconfined,299,17.49,87,7.25,1556,505,76,0.38,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0023,18.8552,82.1265,Shale,Fractured,192,5.14,337,7.89,1456,465,29,1.4,Percussion Drilling,Suitable,Moderate
+Guntur,Site-0024,17.404,79.0616,Basalt,Unconfined,230,17.31,444,8.43,266,286,78,0.77,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0025,13.6247,80.4733,Sandstone,Unconfined,151,8.24,213,6.84,381,786,82,1.51,Down-the-Hole,Not Suitable,Moderate
+Anantapur,Site-0026,14.5913,78.7468,Granite,Semi-confined,161,16.17,418,6.5,990,548,94,0.96,Percussion Drilling,Not Suitable,Moderate
+Krishna,Site-0027,18.2906,79.4586,Shale,Unconfined,275,16.2,345,7.8,1607,330,21,1.01,Rotary Drilling,Suitable,Moderate
+Anantapur,Site-0028,14.9123,83.6616,Granite,Semi-confined,117,17.98,132,7.96,1320,195,44,1.27,Auger Drilling,Suitable,Poor
+Anantapur,Site-0029,15.5879,81.5754,Limestone,Fractured,110,2.96,219,6.91,589,519,90,1.2,Down-the-Hole,Not Suitable,Poor
+Guntur,Site-0030,14.7844,77.6714,Shale,Fractured,108,2.98,51,7.36,803,777,81,1.28,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0031,14.2417,81.4673,Granite,Fractured,89,7.55,253,7.44,1553,371,12,1.36,Auger Drilling,Suitable,Good
+Prakasam,Site-0032,18.313,79.5858,Shale,Unconfined,164,9.92,184,6.95,750,677,8,0.47,Rotary Drilling,Suitable,Good
+Prakasam,Site-0033,17.8491,79.8979,Limestone,Confined,61,17.13,469,7.55,1296,586,74,1.79,Auger Drilling,Not Suitable,Moderate
+Chittoor,Site-0034,15.3688,82.9776,Granite,Confined,91,19.09,279,6.85,542,316,25,0.43,Auger Drilling,Suitable,Good
+Nellore,Site-0035,14.2115,82.7579,Basalt,Semi-confined,193,18.39,463,6.63,994,669,51,1.19,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0036,18.503,77.0865,Alluvium,Fractured,87,9.46,125,7.63,1393,202,14,1.21,Rotary Drilling,Suitable,Moderate
+East Godavari,Site-0037,18.2808,83.1453,Sandstone,Fractured,278,12.3,292,6.57,764,512,19,1.31,Auger Drilling,Suitable,Good
+Nellore,Site-0038,18.3374,79.3205,Basalt,Unconfined,273,18.58,240,6.54,1874,410,40,0.7,Auger Drilling,Suitable,Poor
+Chittoor,Site-0039,18.835,78.5957,Sandstone,Fractured,194,6.85,263,7.71,382,292,57,0.58,Auger Drilling,Not Suitable,Poor
+Krishna,Site-0040,17.557,83.0703,Granite,Confined,63,7.6,309,7.31,1798,636,73,0.25,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0041,14.4969,80.1951,Sandstone,Confined,170,8.63,287,7.51,1501,226,88,0.26,Down-the-Hole,Not Suitable,Moderate
+West Godavari,Site-0042,15.6766,83.7236,Shale,Semi-confined,206,4.94,182,8.0,1610,192,37,0.25,Rotary Drilling,Suitable,Good
+West Godavari,Site-0043,17.679,78.5002,Basalt,Confined,135,6.84,259,7.53,1970,798,2,1.05,Percussion Drilling,Suitable,Poor
+Kadapa,Site-0044,16.6069,77.0592,Sandstone,Semi-confined,170,9.63,242,8.2,1140,358,28,1.04,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0045,13.0441,83.996,Sandstone,Semi-confined,182,14.32,296,6.63,766,755,42,1.75,Down-the-Hole,Suitable,Poor
+Guntur,Site-0046,14.1302,80.6211,Basalt,Unconfined,236,13.89,398,6.78,252,771,64,2.0,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0047,15.3296,77.2472,Alluvium,Confined,205,15.08,163,7.87,1507,587,86,0.85,Down-the-Hole,Not Suitable,Good
+East Godavari,Site-0048,14.0868,77.6832,Basalt,Semi-confined,123,19.04,221,7.81,655,463,29,1.54,Down-the-Hole,Suitable,Moderate
+Prakasam,Site-0049,15.2301,81.099,Shale,Unconfined,270,2.97,374,7.67,1471,172,61,1.8,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0050,16.179,79.8918,Basalt,Confined,132,8.17,341,8.29,1137,246,41,1.75,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0051,14.9958,83.9065,Sandstone,Unconfined,32,10.14,157,8.02,545,690,98,0.49,Rotary Drilling,Not Suitable,Good
+West Godavari,Site-0052,15.6023,80.0059,Shale,Fractured,226,2.08,323,6.9,964,114,42,1.56,Percussion Drilling,Suitable,Good
+Anantapur,Site-0053,16.7601,78.7418,Alluvium,Semi-confined,189,4.32,246,7.51,826,271,9,1.68,Down-the-Hole,Suitable,Moderate
+Krishna,Site-0054,17.367,81.1746,Sandstone,Fractured,98,8.17,300,7.22,585,268,52,0.23,Percussion Drilling,Not Suitable,Poor
+Kadapa,Site-0055,14.2671,77.1534,Limestone,Confined,93,8.6,383,8.08,968,755,33,1.59,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0056,16.9718,81.575,Granite,Unconfined,89,9.5,244,6.75,717,585,90,0.48,Rotary Drilling,Not Suitable,Moderate
+Nellore,Site-0057,16.97,81.6374,Sandstone,Confined,244,16.95,103,7.52,1465,220,37,0.41,Rotary Drilling,Suitable,Moderate
+Kurnool,Site-0058,16.654,82.4457,Limestone,Confined,213,14.66,201,6.82,1322,608,27,1.44,Auger Drilling,Suitable,Moderate
+Kurnool,Site-0059,13.0164,81.7014,Granite,Fractured,106,19.09,449,7.52,1681,203,33,1.36,Auger Drilling,Suitable,Moderate
+Guntur,Site-0060,15.7857,77.6987,Basalt,Unconfined,178,8.48,396,7.13,1712,218,13,1.73,Rotary Drilling,Suitable,Good
+Kadapa,Site-0061,16.9801,78.1936,Sandstone,Fractured,167,17.81,97,7.25,901,287,15,0.92,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0062,17.1394,80.3477,Shale,Confined,87,4.39,421,6.62,1929,263,14,0.95,Auger Drilling,Suitable,Poor
+Krishna,Site-0063,14.0876,79.6583,Sandstone,Unconfined,96,10.7,299,6.73,1042,551,6,0.31,Down-the-Hole,Suitable,Good
+East Godavari,Site-0064,17.6052,81.0365,Limestone,Confined,203,11.34,402,7.9,395,543,85,1.51,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0065,13.8919,82.7851,Limestone,Unconfined,35,13.58,130,7.51,1161,607,22,0.33,Auger Drilling,Suitable,Moderate
+Kurnool,Site-0066,14.9854,78.9471,Limestone,Confined,223,9.26,170,6.66,1109,686,58,0.36,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0067,13.7122,80.4816,Alluvium,Unconfined,82,9.26,68,7.61,200,193,78,1.93,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0068,14.2411,81.7003,Sandstone,Semi-confined,57,16.7,482,7.41,1347,734,77,1.05,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0069,13.6841,82.3152,Basalt,Unconfined,204,8.39,374,8.43,797,660,67,0.87,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0070,15.9545,82.7529,Alluvium,Fractured,84,6.58,150,6.88,1945,502,28,1.02,Percussion Drilling,Suitable,Poor
+Prakasam,Site-0071,13.6466,79.9013,Alluvium,Unconfined,260,10.23,351,8.41,475,610,1,1.15,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0072,18.0329,80.3805,Limestone,Confined,118,15.15,115,6.71,1546,714,78,1.79,Auger Drilling,Not Suitable,Moderate
+West Godavari,Site-0073,18.4955,82.3366,Sandstone,Fractured,205,19.47,281,8.11,482,522,78,1.46,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0074,18.1642,81.9831,Limestone,Confined,132,5.77,415,7.08,907,788,17,1.97,Percussion Drilling,Suitable,Poor
+East Godavari,Site-0075,17.1659,79.2567,Granite,Semi-confined,275,12.49,391,7.92,1580,646,37,1.78,Auger Drilling,Suitable,Good
+East Godavari,Site-0076,13.6388,79.6661,Granite,Unconfined,132,6.81,452,6.82,786,799,33,0.46,Rotary Drilling,Suitable,Poor
+Guntur,Site-0077,14.224,80.7882,Sandstone,Fractured,82,13.09,395,7.98,1971,329,96,1.36,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0078,17.7058,82.5918,Sandstone,Unconfined,225,8.98,453,8.45,840,665,7,0.22,Down-the-Hole,Not Suitable,Good
+West Godavari,Site-0079,18.2131,83.0231,Shale,Confined,218,15.59,329,7.98,602,298,38,1.01,Rotary Drilling,Suitable,Good
+Kadapa,Site-0080,17.4105,77.8355,Granite,Fractured,172,12.02,116,6.82,1932,361,1,0.8,Percussion Drilling,Suitable,Good
+Kadapa,Site-0081,18.5718,81.1782,Alluvium,Semi-confined,281,16.22,331,7.22,1805,425,68,0.6,Percussion Drilling,Not Suitable,Poor
+Chittoor,Site-0082,17.7175,78.1156,Limestone,Fractured,77,8.29,159,7.83,878,469,38,0.59,Auger Drilling,Suitable,Poor
+Anantapur,Site-0083,13.6883,79.4221,Basalt,Confined,50,14.29,214,7.26,1830,216,50,0.66,Down-the-Hole,Not Suitable,Good
+East Godavari,Site-0084,17.9327,79.6247,Limestone,Fractured,279,2.79,383,6.89,1252,184,13,0.5,Rotary Drilling,Suitable,Poor
+Chittoor,Site-0085,14.2647,81.4066,Basalt,Fractured,83,5.7,474,7.91,1718,545,83,1.67,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0086,13.1425,82.0181,Granite,Unconfined,67,2.98,456,7.0,344,688,30,1.84,Auger Drilling,Suitable,Moderate
+Krishna,Site-0087,16.7813,80.0312,Granite,Fractured,90,11.63,378,7.94,329,699,6,1.46,Rotary Drilling,Suitable,Moderate
+East Godavari,Site-0088,13.6368,82.5082,Sandstone,Unconfined,174,15.77,274,7.26,1883,776,4,1.05,Percussion Drilling,Suitable,Good
+Nellore,Site-0089,17.7806,82.9463,Sandstone,Confined,182,14.19,457,8.23,1526,482,2,1.2,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0090,13.0302,81.1766,Limestone,Unconfined,186,5.78,429,8.31,904,316,53,1.83,Percussion Drilling,Not Suitable,Good
+Kadapa,Site-0091,14.3247,82.8432,Basalt,Unconfined,122,14.08,340,8.2,1943,662,60,1.36,Rotary Drilling,Not Suitable,Moderate
+Chittoor,Site-0092,14.5041,78.3819,Limestone,Fractured,199,8.43,393,7.81,404,391,80,0.33,Percussion Drilling,Not Suitable,Moderate
+Krishna,Site-0093,15.7039,81.3144,Sandstone,Confined,216,16.54,269,6.84,841,352,29,1.48,Auger Drilling,Suitable,Moderate
+Prakasam,Site-0094,13.8058,82.1308,Shale,Fractured,258,8.46,206,7.47,422,279,83,1.29,Down-the-Hole,Not Suitable,Good
+East Godavari,Site-0095,14.1786,82.1348,Alluvium,Unconfined,68,18.06,484,7.51,263,695,75,0.93,Percussion Drilling,Not Suitable,Good
+East Godavari,Site-0096,14.5637,83.2579,Limestone,Fractured,106,8.58,164,8.28,1407,397,18,1.04,Rotary Drilling,Not Suitable,Moderate
+Prakasam,Site-0097,16.013,81.6387,Limestone,Confined,293,4.53,131,6.86,1358,775,19,1.52,Auger Drilling,Suitable,Moderate
+Anantapur,Site-0098,14.3129,80.4135,Granite,Semi-confined,219,6.21,392,6.91,1820,469,50,1.05,Auger Drilling,Not Suitable,Good
+Anantapur,Site-0099,18.8835,79.2685,Alluvium,Semi-confined,164,12.42,341,6.85,1538,487,47,1.26,Rotary Drilling,Suitable,Poor
+Guntur,Site-0100,15.258,83.3507,Limestone,Fractured,210,16.71,226,7.47,1187,718,1,1.1,Percussion Drilling,Suitable,Moderate
+Kadapa,Site-0101,14.3799,80.6018,Sandstone,Confined,106,5.36,235,7.7,1873,221,85,0.61,Down-the-Hole,Not Suitable,Poor
+Chittoor,Site-0102,15.8891,80.3517,Basalt,Confined,240,2.4,72,6.76,1413,264,18,1.33,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0103,13.3355,78.8078,Basalt,Fractured,39,17.81,422,7.82,780,187,28,1.01,Auger Drilling,Suitable,Moderate
+Kadapa,Site-0104,14.3162,79.8754,Basalt,Confined,291,6.76,420,7.87,1128,710,76,0.32,Auger Drilling,Not Suitable,Moderate
+Kadapa,Site-0105,13.6514,78.4164,Limestone,Fractured,106,12.9,140,7.45,1459,714,5,1.78,Rotary Drilling,Suitable,Good
+Krishna,Site-0106,16.9564,83.3139,Limestone,Unconfined,250,11.4,239,8.25,1628,642,55,0.61,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0107,16.5343,82.1898,Alluvium,Unconfined,247,4.41,294,8.03,1959,185,37,1.28,Auger Drilling,Not Suitable,Moderate
+Kurnool,Site-0108,13.0328,82.2055,Granite,Unconfined,296,2.13,385,6.91,1847,423,53,0.85,Percussion Drilling,Not Suitable,Moderate
+West Godavari,Site-0109,14.5218,82.9848,Shale,Semi-confined,171,19.85,253,8.01,1046,665,72,1.07,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0110,15.9026,83.9196,Limestone,Semi-confined,233,15.24,487,8.23,443,335,58,1.61,Percussion Drilling,Not Suitable,Good
+Kurnool,Site-0111,16.0501,82.5026,Limestone,Unconfined,112,9.0,375,6.51,386,248,61,1.87,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0112,14.5786,79.5958,Limestone,Unconfined,226,18.75,255,7.73,1267,393,92,1.93,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0113,15.6338,78.412,Alluvium,Semi-confined,129,2.6,356,7.52,1630,337,79,0.51,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0114,16.9301,83.8295,Granite,Semi-confined,234,8.36,252,7.31,610,630,2,1.53,Rotary Drilling,Suitable,Good
+East Godavari,Site-0115,14.707,82.8084,Limestone,Semi-confined,207,19.34,191,6.95,598,565,52,1.23,Down-the-Hole,Not Suitable,Good
+Nellore,Site-0116,16.0374,80.9104,Limestone,Semi-confined,204,19.05,461,7.53,727,650,74,0.65,Auger Drilling,Not Suitable,Moderate
+West Godavari,Site-0117,15.9018,78.7029,Sandstone,Fractured,265,18.14,491,6.55,438,364,9,0.89,Percussion Drilling,Suitable,Poor
+Kurnool,Site-0118,17.801,79.887,Sandstone,Unconfined,164,6.47,97,7.3,1733,450,10,1.2,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0119,15.1212,83.2602,Sandstone,Confined,127,10.98,152,6.97,695,371,27,0.61,Percussion Drilling,Suitable,Poor
+Prakasam,Site-0120,13.936,77.7468,Granite,Fractured,33,15.76,327,8.42,1936,593,48,1.32,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0121,15.9448,83.8908,Limestone,Semi-confined,233,6.0,345,6.76,1276,533,62,1.89,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0122,15.3623,81.8044,Basalt,Fractured,91,14.57,285,7.13,217,112,87,0.58,Rotary Drilling,Not Suitable,Moderate
+Prakasam,Site-0123,16.6767,78.8179,Limestone,Semi-confined,151,6.85,363,7.19,576,610,55,0.58,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0124,14.6778,78.2592,Basalt,Confined,81,14.97,461,6.97,1085,490,26,0.46,Percussion Drilling,Suitable,Moderate
+Anantapur,Site-0125,14.0596,80.4972,Alluvium,Semi-confined,279,7.4,337,8.22,297,507,13,1.44,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0126,15.8592,81.409,Shale,Semi-confined,163,8.5,336,7.61,1858,363,45,0.24,Rotary Drilling,Suitable,Moderate
+West Godavari,Site-0127,14.1937,81.0313,Alluvium,Confined,175,8.39,394,7.52,1786,557,11,0.89,Down-the-Hole,Suitable,Moderate
+Kadapa,Site-0128,18.2095,81.4841,Sandstone,Fractured,237,17.28,86,6.66,903,333,41,0.77,Down-the-Hole,Not Suitable,Poor
+Guntur,Site-0129,16.6323,79.7682,Shale,Semi-confined,296,19.38,261,6.83,1949,123,17,1.51,Down-the-Hole,Suitable,Poor
+Chittoor,Site-0130,14.2634,79.7793,Granite,Unconfined,272,11.87,63,8.04,1273,185,14,0.67,Percussion Drilling,Not Suitable,Good
+Nellore,Site-0131,14.8562,78.7318,Sandstone,Fractured,94,4.36,479,6.84,271,779,46,1.75,Down-the-Hole,Suitable,Moderate
+Krishna,Site-0132,18.8499,80.7841,Sandstone,Fractured,99,19.45,407,7.58,1410,711,59,1.34,Auger Drilling,Not Suitable,Poor
+East Godavari,Site-0133,14.858,79.4302,Limestone,Confined,75,9.95,237,7.32,518,410,2,0.2,Percussion Drilling,Suitable,Moderate
+Guntur,Site-0134,15.8152,77.0582,Shale,Fractured,183,2.16,270,8.1,1422,336,1,1.19,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0135,15.6226,78.7493,Alluvium,Fractured,223,5.97,90,7.34,690,629,98,1.64,Down-the-Hole,Not Suitable,Moderate
+East Godavari,Site-0136,17.8529,79.8903,Granite,Confined,99,7.21,376,7.41,1127,378,90,1.32,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0137,13.9129,83.788,Granite,Confined,82,7.08,114,7.93,1689,108,30,0.36,Rotary Drilling,Suitable,Moderate
+Kurnool,Site-0138,15.0515,79.181,Shale,Semi-confined,267,14.54,66,7.16,1927,249,8,0.68,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0139,15.8209,78.3453,Sandstone,Fractured,36,4.2,443,7.93,988,553,32,1.53,Rotary Drilling,Suitable,Good
+Krishna,Site-0140,17.4119,77.6577,Alluvium,Confined,272,9.0,209,8.37,524,744,94,0.28,Rotary Drilling,Not Suitable,Moderate
+Krishna,Site-0141,16.8311,78.3911,Granite,Confined,87,6.25,272,7.15,542,382,75,0.42,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0142,16.4865,81.8353,Alluvium,Confined,220,15.87,177,6.82,387,733,44,1.88,Rotary Drilling,Suitable,Good
+Prakasam,Site-0143,16.8674,81.9093,Granite,Confined,279,6.19,335,8.08,1749,455,57,1.52,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0144,15.149,77.9431,Granite,Fractured,254,12.06,327,7.89,588,680,24,1.18,Down-the-Hole,Suitable,Poor
+Krishna,Site-0145,14.6519,82.8194,Limestone,Confined,65,11.56,280,7.09,739,654,47,1.02,Auger Drilling,Suitable,Poor
+Kadapa,Site-0146,18.2976,81.3381,Sandstone,Confined,194,14.98,387,8.43,1877,496,25,1.14,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0147,16.6782,79.2582,Alluvium,Semi-confined,86,3.73,387,6.63,1910,232,23,1.77,Percussion Drilling,Suitable,Good
+Krishna,Site-0148,14.1497,77.2227,Alluvium,Fractured,280,11.46,409,7.68,300,475,29,1.29,Rotary Drilling,Suitable,Good
+Kurnool,Site-0149,16.9345,83.4988,Granite,Fractured,61,8.5,430,8.38,1051,477,91,0.3,Down-the-Hole,Not Suitable,Poor
+Anantapur,Site-0150,17.4058,82.8412,Granite,Confined,295,3.75,421,6.96,989,294,25,1.15,Percussion Drilling,Suitable,Poor
+Kadapa,Site-0151,16.3505,80.907,Alluvium,Unconfined,213,14.14,409,7.83,413,270,24,1.19,Down-the-Hole,Suitable,Poor
+Kadapa,Site-0152,16.2034,81.1994,Sandstone,Semi-confined,196,17.21,261,8.03,1081,431,78,0.63,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0153,18.5569,78.7786,Shale,Fractured,233,2.0,67,8.47,1420,116,67,0.44,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0154,18.9064,78.5038,Sandstone,Unconfined,171,18.54,311,7.61,1370,258,13,0.27,Down-the-Hole,Suitable,Good
+Kadapa,Site-0155,14.5899,83.2274,Basalt,Confined,161,16.6,97,7.64,1365,322,94,0.34,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0156,15.9297,83.2932,Alluvium,Unconfined,183,2.67,463,7.65,360,157,99,0.8,Auger Drilling,Not Suitable,Moderate
+Chittoor,Site-0157,18.2187,78.587,Alluvium,Unconfined,225,2.97,318,6.58,1305,678,20,0.79,Percussion Drilling,Suitable,Good
+Anantapur,Site-0158,17.0418,83.9816,Shale,Unconfined,143,9.77,452,7.29,470,444,11,1.06,Rotary Drilling,Suitable,Poor
+Nellore,Site-0159,14.5753,79.7897,Shale,Confined,99,10.66,151,7.48,1535,685,26,1.21,Percussion Drilling,Suitable,Good
+Chittoor,Site-0160,14.5975,80.0105,Alluvium,Unconfined,87,14.09,266,7.23,590,428,45,1.27,Rotary Drilling,Suitable,Moderate
+Kadapa,Site-0161,18.9259,81.3135,Shale,Confined,255,2.81,468,6.97,1603,482,20,1.56,Rotary Drilling,Suitable,Good
+Anantapur,Site-0162,14.4583,81.347,Basalt,Semi-confined,37,8.18,461,6.72,1121,582,3,0.8,Percussion Drilling,Suitable,Good
+East Godavari,Site-0163,16.1396,78.8106,Shale,Confined,39,8.78,389,7.55,723,274,8,0.71,Down-the-Hole,Suitable,Good
+Krishna,Site-0164,16.9285,77.0583,Shale,Semi-confined,214,17.56,59,7.08,1529,495,30,1.96,Rotary Drilling,Not Suitable,Moderate
+Krishna,Site-0165,18.2006,80.7209,Basalt,Confined,286,19.4,337,8.35,244,140,32,1.86,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0166,15.3604,78.099,Sandstone,Semi-confined,211,13.25,170,8.49,1226,382,8,1.33,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0167,18.6947,78.5791,Sandstone,Fractured,100,3.58,245,7.54,1588,727,81,1.44,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0168,13.9165,83.7938,Limestone,Semi-confined,259,11.76,155,7.8,1389,654,88,1.64,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0169,18.4574,80.0105,Basalt,Confined,192,3.22,322,8.4,442,288,41,1.71,Percussion Drilling,Not Suitable,Poor
+Anantapur,Site-0170,17.5926,83.1609,Shale,Fractured,185,9.97,470,8.29,1712,380,20,1.6,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0171,13.1572,83.9017,Limestone,Semi-confined,148,12.73,168,7.87,935,181,89,1.6,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0172,15.8126,81.547,Basalt,Fractured,281,10.53,133,6.89,266,518,98,1.94,Down-the-Hole,Not Suitable,Moderate
+Kurnool,Site-0173,17.4542,83.9177,Basalt,Unconfined,120,18.69,274,8.23,1203,432,59,1.8,Auger Drilling,Not Suitable,Moderate
+Anantapur,Site-0174,16.6476,82.7703,Alluvium,Semi-confined,231,13.01,430,7.64,1298,637,83,1.78,Rotary Drilling,Not Suitable,Poor
+Chittoor,Site-0175,15.7097,82.7891,Granite,Confined,295,11.68,426,6.58,993,628,98,1.34,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0176,15.6373,83.1908,Sandstone,Fractured,115,9.6,363,8.34,1613,629,19,1.03,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0177,13.679,82.4511,Alluvium,Confined,231,9.44,280,6.55,1129,704,92,1.81,Auger Drilling,Not Suitable,Good
+Guntur,Site-0178,14.9444,81.54,Alluvium,Confined,93,3.64,411,7.4,943,187,68,1.47,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0179,15.2836,82.3778,Sandstone,Confined,113,17.64,141,8.04,305,529,40,0.76,Auger Drilling,Not Suitable,Moderate
+Kadapa,Site-0180,13.7053,77.921,Basalt,Unconfined,159,2.22,304,8.21,1313,105,78,1.79,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0181,16.9568,80.1762,Shale,Unconfined,33,6.4,330,7.06,1487,670,27,0.29,Percussion Drilling,Suitable,Good
+Prakasam,Site-0182,13.2203,82.9768,Alluvium,Semi-confined,199,18.57,75,6.72,565,265,87,0.71,Percussion Drilling,Not Suitable,Moderate
+West Godavari,Site-0183,15.1611,77.2509,Sandstone,Semi-confined,218,18.16,469,6.64,1075,663,9,0.73,Percussion Drilling,Suitable,Good
+Guntur,Site-0184,14.9753,79.8963,Basalt,Confined,59,3.97,423,8.46,1283,189,62,1.5,Down-the-Hole,Not Suitable,Moderate
+West Godavari,Site-0185,18.0868,78.8176,Limestone,Semi-confined,96,13.06,304,7.54,1494,609,64,1.65,Percussion Drilling,Not Suitable,Poor
+Guntur,Site-0186,18.8755,77.0111,Granite,Fractured,90,15.27,156,8.1,1049,523,6,0.8,Percussion Drilling,Not Suitable,Good
+Kurnool,Site-0187,17.1401,78.7809,Granite,Semi-confined,183,11.12,215,8.03,433,441,44,0.91,Rotary Drilling,Not Suitable,Good
+Kurnool,Site-0188,14.9831,79.3656,Alluvium,Fractured,272,16.35,380,6.77,518,742,59,1.81,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0189,18.5667,77.3922,Limestone,Semi-confined,191,11.99,59,6.92,1603,439,46,0.32,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0190,15.0349,79.6267,Limestone,Confined,229,5.37,109,8.23,1739,415,91,1.74,Rotary Drilling,Not Suitable,Moderate
+Nellore,Site-0191,13.5208,83.1393,Sandstone,Fractured,184,5.89,204,6.85,966,138,100,0.56,Rotary Drilling,Not Suitable,Moderate
+East Godavari,Site-0192,13.1496,80.3786,Limestone,Confined,127,8.12,297,7.96,1272,417,100,0.79,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0193,14.2311,77.2559,Shale,Unconfined,32,7.6,72,7.87,1417,189,43,1.04,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0194,17.5971,82.2189,Granite,Semi-confined,137,7.78,148,7.07,1290,426,99,0.99,Rotary Drilling,Not Suitable,Moderate
+Kadapa,Site-0195,13.945,77.8012,Limestone,Unconfined,135,11.77,331,7.14,489,390,74,0.64,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0196,18.3535,80.784,Granite,Confined,44,10.47,395,6.6,985,155,12,0.97,Percussion Drilling,Suitable,Poor
+West Godavari,Site-0197,18.3477,81.4063,Alluvium,Fractured,212,7.62,468,6.9,1753,786,69,0.34,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0198,13.5575,82.6165,Alluvium,Fractured,79,10.2,400,7.79,1769,576,61,0.62,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0199,14.5483,79.5441,Basalt,Semi-confined,196,10.16,65,6.63,431,459,62,1.03,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0200,16.6266,77.8918,Granite,Fractured,84,7.87,382,6.64,818,645,60,0.92,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0201,14.4621,78.1131,Shale,Fractured,63,8.13,466,7.89,1082,545,73,1.62,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0202,17.4362,81.9834,Shale,Unconfined,267,7.86,99,8.14,560,415,52,0.33,Rotary Drilling,Not Suitable,Poor
+West Godavari,Site-0203,17.6281,79.6524,Shale,Unconfined,76,5.92,121,8.27,1746,751,1,1.56,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0204,14.749,81.309,Shale,Confined,135,14.27,212,7.1,1826,795,39,1.85,Auger Drilling,Suitable,Poor
+Prakasam,Site-0205,18.9417,81.0791,Limestone,Fractured,95,17.35,81,7.24,1324,154,1,1.47,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0206,18.1941,78.6467,Alluvium,Fractured,192,14.81,257,7.26,1316,316,85,0.51,Percussion Drilling,Not Suitable,Good
+East Godavari,Site-0207,15.3076,83.4714,Shale,Confined,177,19.95,393,6.75,223,173,83,0.23,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0208,18.8499,77.9504,Basalt,Fractured,263,18.08,406,7.71,1071,738,24,1.02,Auger Drilling,Suitable,Poor
+Krishna,Site-0209,15.3083,78.5802,Shale,Unconfined,285,17.24,171,7.92,751,520,70,1.24,Rotary Drilling,Not Suitable,Good
+West Godavari,Site-0210,15.8996,79.5801,Limestone,Fractured,70,4.56,424,7.55,1959,386,60,1.13,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0211,16.784,81.6462,Alluvium,Unconfined,189,13.03,225,7.57,222,580,59,1.12,Auger Drilling,Not Suitable,Poor
+Prakasam,Site-0212,15.5261,83.7241,Sandstone,Semi-confined,115,2.64,355,8.0,1688,677,34,0.31,Auger Drilling,Suitable,Poor
+Kadapa,Site-0213,16.4372,81.5942,Sandstone,Unconfined,176,10.73,114,7.51,1943,384,33,0.44,Down-the-Hole,Suitable,Moderate
+Guntur,Site-0214,13.0852,77.7808,Basalt,Confined,258,8.66,139,7.02,1635,341,63,0.53,Rotary Drilling,Not Suitable,Moderate
+Chittoor,Site-0215,18.8041,81.1688,Basalt,Fractured,241,15.87,171,7.82,1686,752,22,0.58,Down-the-Hole,Suitable,Good
+Guntur,Site-0216,17.5329,77.812,Basalt,Fractured,234,10.57,293,7.99,1740,645,30,0.88,Auger Drilling,Suitable,Moderate
+Guntur,Site-0217,13.8709,83.0919,Granite,Semi-confined,259,8.88,211,8.42,1598,142,13,1.85,Down-the-Hole,Not Suitable,Moderate
+West Godavari,Site-0218,18.5083,83.0085,Sandstone,Semi-confined,166,16.44,180,7.81,1001,572,99,1.42,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0219,17.623,80.6397,Alluvium,Confined,190,11.86,394,6.52,339,112,53,0.38,Rotary Drilling,Not Suitable,Poor
+Krishna,Site-0220,15.1091,82.0768,Sandstone,Confined,47,2.43,97,6.61,1416,772,28,1.91,Rotary Drilling,Not Suitable,Poor
+Chittoor,Site-0221,13.5183,81.2328,Shale,Confined,86,14.52,179,7.09,1552,177,82,1.02,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0222,14.544,82.4651,Sandstone,Unconfined,225,8.99,80,7.02,1864,371,23,0.99,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0223,15.3558,81.5184,Granite,Confined,250,5.93,379,6.71,1104,365,14,0.26,Rotary Drilling,Suitable,Poor
+Guntur,Site-0224,17.6634,77.1314,Shale,Confined,30,18.79,390,7.28,510,437,51,1.23,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0225,15.4235,82.0944,Granite,Confined,31,8.92,402,8.14,1187,224,73,1.16,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0226,15.4037,81.4259,Alluvium,Unconfined,217,11.62,224,6.66,1141,396,83,0.57,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0227,14.7932,79.7307,Granite,Semi-confined,279,3.53,373,7.38,588,243,5,0.55,Percussion Drilling,Suitable,Moderate
+Nellore,Site-0228,13.378,80.7839,Sandstone,Fractured,260,19.4,58,6.57,314,445,93,0.28,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0229,15.7502,81.7465,Limestone,Confined,149,18.65,68,7.97,1201,769,3,1.05,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0230,13.0862,81.4286,Sandstone,Unconfined,263,13.0,477,7.68,1874,208,15,1.09,Percussion Drilling,Suitable,Good
+Kurnool,Site-0231,15.5573,82.6806,Alluvium,Fractured,196,4.17,400,7.65,481,429,28,1.58,Percussion Drilling,Suitable,Moderate
+Chittoor,Site-0232,13.7245,77.9887,Shale,Confined,219,11.96,274,6.99,1391,141,18,0.38,Auger Drilling,Suitable,Good
+Anantapur,Site-0233,18.2778,77.5651,Granite,Confined,75,14.72,353,8.27,1052,587,89,0.43,Percussion Drilling,Not Suitable,Poor
+Guntur,Site-0234,16.1385,79.8842,Basalt,Unconfined,122,14.91,363,8.4,1484,408,45,0.95,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0235,18.9196,83.8375,Limestone,Semi-confined,289,5.95,444,7.75,626,383,7,0.55,Percussion Drilling,Suitable,Poor
+Krishna,Site-0236,15.9851,78.1183,Granite,Unconfined,216,7.13,272,7.0,1463,564,6,0.39,Rotary Drilling,Suitable,Poor
+Kadapa,Site-0237,13.9483,77.2035,Limestone,Unconfined,66,18.11,419,7.39,1387,433,54,0.56,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0238,14.9568,77.6864,Alluvium,Fractured,132,8.76,162,6.65,1398,596,7,1.8,Percussion Drilling,Suitable,Good
+West Godavari,Site-0239,15.7299,79.7113,Basalt,Fractured,129,13.38,188,6.9,460,132,89,1.22,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0240,18.1099,80.2101,Basalt,Semi-confined,142,17.96,359,6.81,1827,753,79,1.83,Percussion Drilling,Not Suitable,Good
+Nellore,Site-0241,18.1418,80.4245,Basalt,Fractured,266,7.03,423,7.36,1987,352,32,0.79,Percussion Drilling,Suitable,Poor
+Kadapa,Site-0242,18.4825,83.2878,Shale,Unconfined,50,19.84,425,8.04,268,535,68,0.91,Rotary Drilling,Not Suitable,Moderate
+Krishna,Site-0243,14.4431,80.9094,Granite,Fractured,141,4.39,201,6.98,385,116,62,1.4,Percussion Drilling,Not Suitable,Poor
+Krishna,Site-0244,18.1475,82.231,Granite,Fractured,267,15.89,497,7.91,578,479,81,1.04,Rotary Drilling,Not Suitable,Poor
+Chittoor,Site-0245,15.3093,81.8353,Limestone,Unconfined,181,9.67,188,7.9,1454,655,74,1.63,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0246,17.4146,77.3837,Alluvium,Semi-confined,56,4.0,237,7.43,283,474,47,0.52,Rotary Drilling,Suitable,Poor
+Kurnool,Site-0247,13.8304,79.3445,Limestone,Unconfined,274,15.27,435,7.66,1639,314,97,1.54,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0248,18.3876,80.525,Shale,Semi-confined,57,3.14,226,7.4,1226,639,16,1.05,Down-the-Hole,Suitable,Moderate
+West Godavari,Site-0249,15.2089,81.7131,Alluvium,Unconfined,126,18.05,284,6.67,1000,283,37,1.92,Rotary Drilling,Suitable,Good
+Kadapa,Site-0250,14.6557,81.8796,Shale,Confined,134,11.37,371,6.55,1053,798,70,1.88,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0251,15.6632,81.5128,Sandstone,Confined,62,2.4,460,6.96,1264,760,43,0.94,Down-the-Hole,Suitable,Poor
+Prakasam,Site-0252,15.9169,81.661,Limestone,Fractured,264,7.47,117,8.3,827,275,34,0.61,Down-the-Hole,Not Suitable,Moderate
+Anantapur,Site-0253,13.89,78.9907,Basalt,Confined,176,5.28,139,8.18,1618,782,20,0.49,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0254,16.4472,80.0862,Sandstone,Confined,135,12.12,67,7.83,904,251,48,1.01,Percussion Drilling,Not Suitable,Poor
+Guntur,Site-0255,13.7289,77.1745,Shale,Confined,264,18.7,129,6.51,1712,659,65,0.8,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0256,18.8176,82.2791,Limestone,Confined,256,8.1,107,7.96,282,242,87,1.19,Down-the-Hole,Not Suitable,Good
+Nellore,Site-0257,16.7051,78.5426,Sandstone,Unconfined,197,2.99,378,6.89,1278,327,99,0.7,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0258,18.0967,81.7394,Granite,Fractured,129,10.83,358,7.71,314,782,47,0.92,Auger Drilling,Suitable,Moderate
+Nellore,Site-0259,15.237,78.9926,Sandstone,Semi-confined,258,17.74,94,6.93,1109,525,57,0.72,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0260,13.8374,81.1103,Granite,Confined,136,7.46,494,7.55,886,167,76,1.56,Rotary Drilling,Not Suitable,Good
+Nellore,Site-0261,16.8328,78.9133,Basalt,Fractured,100,5.59,476,7.26,1334,602,6,1.68,Down-the-Hole,Suitable,Poor
+Guntur,Site-0262,15.9646,82.179,Basalt,Unconfined,31,4.77,203,8.41,1908,751,61,0.42,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0263,15.9513,81.8149,Basalt,Unconfined,91,15.76,302,8.49,336,713,96,0.85,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0264,18.2101,81.396,Shale,Unconfined,221,11.23,344,6.54,731,266,75,0.31,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0265,15.1443,77.3702,Sandstone,Fractured,212,2.88,199,7.56,357,626,25,1.58,Percussion Drilling,Suitable,Good
+West Godavari,Site-0266,17.5158,80.806,Sandstone,Semi-confined,168,14.34,402,7.23,1294,693,46,1.68,Rotary Drilling,Suitable,Good
+East Godavari,Site-0267,14.6885,82.4517,Shale,Semi-confined,113,3.84,129,7.51,1903,292,72,1.3,Rotary Drilling,Not Suitable,Moderate
+Krishna,Site-0268,18.4962,77.816,Basalt,Unconfined,275,8.27,403,7.23,1873,552,77,1.14,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0269,13.1726,82.702,Basalt,Confined,102,14.38,207,6.75,466,180,55,1.44,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0270,17.6482,82.3013,Granite,Confined,85,2.59,387,7.53,321,580,16,1.84,Rotary Drilling,Suitable,Good
+Guntur,Site-0271,17.0055,82.2819,Granite,Confined,132,5.33,229,6.56,498,384,75,0.83,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0272,14.4509,80.9916,Granite,Unconfined,300,5.91,148,8.43,551,650,1,1.95,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0273,18.1078,80.323,Alluvium,Confined,255,14.12,104,6.86,926,488,55,0.59,Percussion Drilling,Not Suitable,Moderate
+Chittoor,Site-0274,17.5685,79.2,Shale,Unconfined,296,4.45,440,7.22,790,670,93,0.27,Down-the-Hole,Not Suitable,Moderate
+Chittoor,Site-0275,15.3087,80.1986,Alluvium,Semi-confined,257,6.07,258,7.08,1951,538,25,1.74,Auger Drilling,Suitable,Poor
+Prakasam,Site-0276,14.0758,83.9911,Shale,Unconfined,232,9.89,387,7.85,444,246,51,0.92,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0277,13.3883,83.8265,Sandstone,Confined,236,4.21,479,7.35,1222,385,98,1.48,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0278,15.1366,81.6667,Shale,Fractured,291,7.02,443,7.41,450,356,63,1.1,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0279,17.4268,82.8122,Shale,Unconfined,121,8.89,397,7.15,820,736,80,0.37,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0280,17.6054,82.5491,Basalt,Semi-confined,284,10.82,183,7.58,1857,653,70,0.23,Rotary Drilling,Not Suitable,Moderate
+Chittoor,Site-0281,15.3018,79.2019,Shale,Fractured,265,2.65,140,7.61,1962,410,91,0.5,Auger Drilling,Not Suitable,Good
+Guntur,Site-0282,17.2943,80.4122,Granite,Fractured,270,10.57,487,6.81,314,500,34,1.09,Auger Drilling,Suitable,Poor
+Prakasam,Site-0283,17.5988,78.9911,Granite,Unconfined,53,4.31,237,7.2,1719,697,4,1.58,Down-the-Hole,Suitable,Moderate
+Chittoor,Site-0284,15.5689,83.9436,Shale,Semi-confined,58,13.9,176,6.97,839,706,11,1.84,Rotary Drilling,Suitable,Moderate
+Chittoor,Site-0285,15.0256,77.138,Sandstone,Unconfined,265,13.84,266,7.64,1062,373,3,1.45,Rotary Drilling,Suitable,Moderate
+Nellore,Site-0286,16.4221,79.2569,Granite,Fractured,81,14.44,155,7.17,1229,783,44,0.5,Down-the-Hole,Suitable,Moderate
+Nellore,Site-0287,14.2106,81.4481,Granite,Confined,177,6.77,202,8.49,1023,331,80,1.54,Rotary Drilling,Not Suitable,Poor
+West Godavari,Site-0288,13.5684,79.3579,Granite,Fractured,248,5.78,457,6.65,1887,409,65,1.65,Auger Drilling,Not Suitable,Poor
+East Godavari,Site-0289,14.8801,79.9002,Sandstone,Fractured,122,17.86,371,7.91,1966,291,74,1.1,Auger Drilling,Not Suitable,Moderate
+East Godavari,Site-0290,17.8536,82.9694,Shale,Unconfined,297,5.61,286,6.8,508,407,56,0.94,Rotary Drilling,Not Suitable,Poor
+Kurnool,Site-0291,18.0758,78.8685,Sandstone,Confined,161,14.36,170,7.31,432,253,25,0.25,Down-the-Hole,Suitable,Moderate
+Krishna,Site-0292,16.359,80.0529,Alluvium,Unconfined,133,4.87,119,6.56,1817,384,85,1.19,Rotary Drilling,Not Suitable,Poor
+Krishna,Site-0293,17.6934,77.3873,Granite,Semi-confined,182,17.61,258,8.29,1575,773,12,0.91,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0294,16.4258,80.5017,Granite,Semi-confined,284,17.92,171,7.7,1783,420,43,1.7,Auger Drilling,Suitable,Poor
+Kurnool,Site-0295,18.613,78.5261,Granite,Confined,139,19.46,275,7.32,1967,703,8,1.08,Down-the-Hole,Suitable,Poor
+Chittoor,Site-0296,14.8989,79.9665,Alluvium,Confined,172,17.83,124,7.23,1665,476,40,0.24,Rotary Drilling,Suitable,Poor
+Anantapur,Site-0297,17.1441,82.5216,Basalt,Semi-confined,226,7.57,408,7.23,1863,224,69,1.76,Auger Drilling,Not Suitable,Moderate
+Anantapur,Site-0298,18.4587,79.7508,Sandstone,Semi-confined,76,18.85,437,6.97,630,264,57,1.34,Auger Drilling,Not Suitable,Good
+Guntur,Site-0299,18.1987,82.7624,Shale,Fractured,241,18.68,220,7.93,1995,202,21,1.46,Rotary Drilling,Suitable,Moderate
+Nellore,Site-0300,16.6127,82.694,Alluvium,Semi-confined,262,14.51,440,6.6,1513,288,81,1.0,Percussion Drilling,Not Suitable,Good
+Nellore,Site-0301,14.2005,79.1388,Limestone,Unconfined,86,4.84,314,7.93,1772,764,98,0.43,Auger Drilling,Not Suitable,Moderate
+Krishna,Site-0302,15.8702,82.1462,Sandstone,Confined,197,16.39,151,6.67,952,286,51,1.78,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0303,18.5387,81.5297,Alluvium,Confined,75,19.53,151,7.02,1944,272,7,0.92,Auger Drilling,Suitable,Poor
+Guntur,Site-0304,13.8955,83.7062,Basalt,Unconfined,37,14.93,272,8.05,1129,789,64,0.41,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0305,14.7278,80.4592,Basalt,Fractured,135,12.8,471,7.07,1586,293,54,0.52,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0306,18.8568,78.6484,Shale,Confined,219,12.49,381,7.42,221,580,18,1.77,Auger Drilling,Suitable,Poor
+Kurnool,Site-0307,17.28,81.9592,Alluvium,Semi-confined,67,3.72,80,6.6,680,582,46,1.99,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0308,16.0273,79.6666,Shale,Semi-confined,97,19.43,336,6.58,567,366,22,1.11,Down-the-Hole,Suitable,Moderate
+Kadapa,Site-0309,13.5379,81.9718,Shale,Confined,163,4.1,72,8.46,1222,387,96,0.85,Auger Drilling,Not Suitable,Moderate
+Guntur,Site-0310,16.6776,82.3309,Sandstone,Semi-confined,253,18.07,211,7.97,1206,254,72,1.74,Auger Drilling,Not Suitable,Good
+Kurnool,Site-0311,13.8917,78.609,Granite,Fractured,163,4.94,289,7.37,1213,141,57,0.84,Auger Drilling,Not Suitable,Moderate
+Krishna,Site-0312,13.6749,82.0383,Basalt,Unconfined,208,3.68,494,7.07,1909,272,96,1.12,Down-the-Hole,Not Suitable,Poor
+West Godavari,Site-0313,14.2744,83.986,Granite,Confined,243,18.57,176,8.04,1586,196,43,0.25,Rotary Drilling,Not Suitable,Moderate
+Prakasam,Site-0314,16.542,83.6585,Sandstone,Confined,44,3.46,475,7.92,1182,564,81,1.92,Rotary Drilling,Not Suitable,Moderate
+Anantapur,Site-0315,16.937,83.6563,Sandstone,Confined,138,17.54,460,7.79,861,156,96,0.33,Auger Drilling,Not Suitable,Good
+Nellore,Site-0316,14.531,78.6806,Shale,Unconfined,40,17.34,133,7.28,1024,391,83,1.55,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0317,15.9451,80.0265,Sandstone,Confined,213,13.98,476,7.23,609,601,58,1.79,Auger Drilling,Not Suitable,Moderate
+West Godavari,Site-0318,16.602,77.6316,Shale,Semi-confined,125,9.81,268,6.69,1251,449,60,1.42,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0319,16.7774,80.6727,Sandstone,Fractured,253,3.43,460,7.46,504,230,88,1.83,Percussion Drilling,Not Suitable,Poor
+Nellore,Site-0320,14.7729,77.3341,Granite,Unconfined,292,3.94,267,7.33,1151,776,93,1.22,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0321,16.5134,82.3805,Granite,Unconfined,266,5.23,143,8.19,292,185,54,1.78,Down-the-Hole,Not Suitable,Moderate
+West Godavari,Site-0322,17.3446,82.3015,Shale,Semi-confined,204,19.4,496,8.12,632,289,11,1.54,Down-the-Hole,Not Suitable,Poor
+Chittoor,Site-0323,15.6028,77.1254,Shale,Unconfined,36,5.09,294,7.42,1029,773,96,1.28,Auger Drilling,Not Suitable,Moderate
+West Godavari,Site-0324,17.8788,81.3172,Alluvium,Fractured,184,3.58,119,6.53,429,116,90,1.95,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0325,16.8917,81.5482,Shale,Confined,74,7.42,287,6.8,1064,122,15,0.5,Percussion Drilling,Suitable,Poor
+Krishna,Site-0326,18.7832,80.3004,Shale,Confined,133,7.31,474,8.17,304,441,2,0.38,Auger Drilling,Not Suitable,Moderate
+Krishna,Site-0327,17.4225,81.1709,Limestone,Semi-confined,48,10.77,298,7.53,1684,726,87,1.83,Auger Drilling,Not Suitable,Good
+Anantapur,Site-0328,16.1699,79.954,Sandstone,Unconfined,167,18.07,263,8.28,439,606,80,1.89,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0329,13.1248,79.0161,Basalt,Fractured,206,9.89,309,6.94,1602,447,78,1.74,Auger Drilling,Not Suitable,Good
+Guntur,Site-0330,17.338,79.7326,Shale,Semi-confined,271,16.4,482,6.82,624,389,89,1.55,Auger Drilling,Not Suitable,Good
+Kadapa,Site-0331,14.1969,81.2402,Granite,Fractured,282,7.47,157,7.61,237,467,34,0.84,Percussion Drilling,Suitable,Good
+East Godavari,Site-0332,13.1918,77.4457,Shale,Unconfined,146,4.17,164,7.47,896,463,99,0.28,Down-the-Hole,Not Suitable,Good
+East Godavari,Site-0333,16.6257,77.729,Granite,Fractured,264,19.33,436,6.72,416,725,79,1.61,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0334,16.0438,78.1693,Granite,Confined,215,4.83,199,7.92,1760,618,64,1.52,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0335,15.0076,77.9644,Basalt,Fractured,242,15.85,53,6.99,1857,585,44,0.72,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0336,15.2346,82.2839,Sandstone,Confined,107,15.56,321,7.34,667,241,55,0.94,Auger Drilling,Not Suitable,Moderate
+East Godavari,Site-0337,17.7676,79.5324,Granite,Fractured,104,15.86,417,8.11,342,186,44,0.77,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0338,15.3596,77.2597,Alluvium,Confined,59,19.6,415,8.1,1993,632,38,0.95,Down-the-Hole,Not Suitable,Poor
+Prakasam,Site-0339,18.4554,77.0553,Sandstone,Confined,236,10.03,155,8.28,1478,733,84,1.0,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0340,17.6524,83.1668,Granite,Unconfined,201,9.02,418,7.98,458,632,70,0.71,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0341,14.8735,79.385,Alluvium,Confined,41,2.5,457,7.58,729,347,100,0.75,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0342,17.3919,82.8911,Sandstone,Semi-confined,93,2.86,383,8.38,1119,405,74,1.53,Auger Drilling,Not Suitable,Moderate
+Kurnool,Site-0343,17.8323,83.923,Limestone,Confined,209,7.39,391,8.07,1664,686,87,0.45,Auger Drilling,Not Suitable,Poor
+Kurnool,Site-0344,13.6314,80.6152,Basalt,Semi-confined,262,3.76,414,7.35,1043,183,12,0.31,Percussion Drilling,Suitable,Moderate
+Kurnool,Site-0345,15.677,79.5851,Limestone,Fractured,295,16.02,496,7.03,1221,751,55,1.99,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0346,17.9429,78.0104,Basalt,Fractured,264,4.33,410,7.53,1283,220,89,0.58,Auger Drilling,Not Suitable,Good
+Kadapa,Site-0347,18.6644,79.5853,Granite,Fractured,86,4.18,342,7.08,1270,256,16,0.87,Down-the-Hole,Suitable,Moderate
+Guntur,Site-0348,15.9156,82.5384,Basalt,Fractured,54,18.86,206,8.28,641,287,95,1.08,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0349,13.4054,77.3128,Shale,Semi-confined,261,18.21,450,7.25,1908,720,17,1.57,Auger Drilling,Suitable,Moderate
+Krishna,Site-0350,13.8939,82.095,Granite,Fractured,228,6.19,252,7.18,293,786,57,1.52,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0351,16.432,82.5731,Alluvium,Semi-confined,93,13.59,93,6.88,1467,654,74,1.56,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0352,18.3812,77.842,Limestone,Confined,39,6.95,155,6.99,1645,693,57,0.35,Down-the-Hole,Not Suitable,Moderate
+West Godavari,Site-0353,13.2699,83.0338,Granite,Semi-confined,253,5.25,62,8.22,849,491,33,0.36,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0354,14.7121,78.2787,Granite,Confined,187,19.14,397,6.84,1458,433,24,0.25,Rotary Drilling,Suitable,Moderate
+Nellore,Site-0355,13.5925,77.9972,Sandstone,Semi-confined,222,18.95,111,6.6,690,711,76,0.63,Auger Drilling,Not Suitable,Good
+Guntur,Site-0356,13.3638,80.2538,Shale,Unconfined,277,2.52,374,6.97,238,375,71,1.93,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0357,16.9093,77.879,Limestone,Fractured,258,3.51,375,7.5,1803,245,48,1.17,Percussion Drilling,Suitable,Good
+East Godavari,Site-0358,18.7157,83.7295,Limestone,Fractured,51,2.02,287,8.42,1471,396,84,1.95,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0359,14.6398,78.7562,Alluvium,Fractured,209,17.16,158,7.67,1245,388,6,0.49,Rotary Drilling,Suitable,Moderate
+Chittoor,Site-0360,15.3718,77.8608,Basalt,Semi-confined,251,5.8,308,8.41,851,798,44,1.34,Auger Drilling,Not Suitable,Moderate
+Kurnool,Site-0361,16.9737,79.2515,Basalt,Fractured,198,2.29,404,6.77,204,723,61,0.21,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0362,15.479,83.2669,Alluvium,Fractured,231,11.69,453,8.25,1533,179,69,0.26,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0363,15.118,82.6895,Limestone,Semi-confined,228,5.19,443,8.12,217,227,60,0.87,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0364,14.3291,77.1385,Sandstone,Semi-confined,128,3.62,364,7.75,1855,326,30,1.96,Down-the-Hole,Suitable,Good
+Guntur,Site-0365,15.957,81.9283,Limestone,Confined,33,5.53,470,7.78,427,384,73,1.1,Percussion Drilling,Not Suitable,Poor
+Kurnool,Site-0366,16.959,80.9599,Alluvium,Confined,63,12.59,431,6.63,731,683,30,1.79,Down-the-Hole,Suitable,Good
+Anantapur,Site-0367,18.9517,81.8509,Limestone,Semi-confined,262,2.04,268,7.78,1531,153,42,0.98,Auger Drilling,Suitable,Moderate
+Chittoor,Site-0368,17.081,80.2661,Sandstone,Unconfined,144,2.85,265,7.56,847,105,51,0.55,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0369,18.9416,78.5794,Alluvium,Fractured,68,18.51,150,6.83,836,164,81,1.33,Rotary Drilling,Not Suitable,Moderate
+Nellore,Site-0370,17.8484,81.1477,Alluvium,Semi-confined,158,6.45,292,6.98,897,155,43,1.14,Percussion Drilling,Suitable,Good
+West Godavari,Site-0371,16.7174,82.3487,Alluvium,Fractured,93,3.54,81,8.33,972,420,89,0.32,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0372,13.3287,81.2752,Shale,Unconfined,82,14.2,336,6.6,1940,490,52,0.37,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0373,17.7248,81.3681,Shale,Fractured,267,16.31,500,7.74,407,447,84,1.89,Rotary Drilling,Not Suitable,Moderate
+East Godavari,Site-0374,14.9692,78.3474,Granite,Unconfined,64,12.67,480,6.89,1373,229,82,1.12,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0375,17.3477,80.1124,Basalt,Confined,52,3.09,209,7.67,1250,767,97,0.84,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0376,14.852,79.4003,Sandstone,Unconfined,295,12.56,397,6.79,686,619,72,1.75,Auger Drilling,Not Suitable,Moderate
+Kurnool,Site-0377,18.8591,81.4839,Basalt,Unconfined,204,5.41,293,7.89,1157,714,89,0.8,Down-the-Hole,Not Suitable,Poor
+Guntur,Site-0378,15.5122,78.136,Shale,Unconfined,283,5.95,51,7.78,1619,335,60,1.32,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0379,17.8436,79.6314,Shale,Confined,33,8.53,87,7.22,1336,217,19,0.72,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0380,18.4763,79.5194,Granite,Confined,131,7.11,162,8.27,1672,278,44,1.73,Percussion Drilling,Not Suitable,Good
+Kurnool,Site-0381,13.129,82.9002,Granite,Unconfined,100,8.82,453,8.27,893,315,40,1.02,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0382,18.647,83.8397,Limestone,Fractured,63,4.13,116,8.09,592,645,49,1.45,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0383,18.8619,78.7118,Granite,Confined,180,16.21,217,6.99,1489,386,17,1.73,Auger Drilling,Suitable,Good
+Chittoor,Site-0384,17.708,82.537,Limestone,Unconfined,115,11.16,434,8.26,1738,621,48,1.1,Auger Drilling,Not Suitable,Good
+Prakasam,Site-0385,17.2749,80.6783,Shale,Fractured,272,6.83,255,7.78,1819,697,84,0.27,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0386,18.179,79.7713,Sandstone,Fractured,223,12.28,481,7.25,1327,186,18,1.55,Down-the-Hole,Suitable,Moderate
+East Godavari,Site-0387,15.1094,81.0877,Shale,Semi-confined,248,10.12,271,7.32,1847,609,41,0.69,Rotary Drilling,Suitable,Good
+Krishna,Site-0388,14.4027,81.5175,Sandstone,Unconfined,180,17.17,312,7.59,360,383,30,0.38,Rotary Drilling,Suitable,Moderate
+Anantapur,Site-0389,16.2762,79.3363,Alluvium,Semi-confined,158,7.45,467,8.04,1931,381,25,1.47,Percussion Drilling,Not Suitable,Poor
+East Godavari,Site-0390,18.4743,77.0597,Sandstone,Semi-confined,207,16.1,256,8.39,1883,693,97,1.38,Auger Drilling,Not Suitable,Poor
+East Godavari,Site-0391,18.9356,83.6604,Shale,Confined,146,15.02,157,7.45,1256,701,71,1.56,Auger Drilling,Not Suitable,Moderate
+Chittoor,Site-0392,14.8784,78.3149,Alluvium,Fractured,137,9.9,486,7.62,967,242,74,1.77,Down-the-Hole,Not Suitable,Poor
+Anantapur,Site-0393,15.9988,81.6119,Sandstone,Semi-confined,145,9.54,401,8.01,1762,650,39,0.79,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0394,18.5329,78.0758,Sandstone,Fractured,225,5.68,250,6.63,991,292,61,0.4,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0395,13.5594,77.7302,Limestone,Confined,46,16.88,358,7.48,582,303,9,1.84,Auger Drilling,Suitable,Moderate
+Kurnool,Site-0396,14.3982,81.617,Granite,Fractured,59,8.64,55,6.84,1960,520,51,0.48,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0397,15.5105,82.202,Shale,Confined,96,17.67,208,7.36,1653,780,61,0.49,Down-the-Hole,Not Suitable,Poor
+Kurnool,Site-0398,16.0149,81.7939,Sandstone,Confined,33,19.84,278,6.63,1017,719,32,1.15,Auger Drilling,Suitable,Moderate
+Krishna,Site-0399,16.4568,82.161,Sandstone,Fractured,207,14.61,414,8.08,1000,727,23,0.95,Percussion Drilling,Not Suitable,Poor
+Nellore,Site-0400,15.747,83.3758,Basalt,Unconfined,231,14.58,72,6.98,1982,261,36,1.79,Down-the-Hole,Not Suitable,Poor
+Chittoor,Site-0401,17.1883,82.0569,Basalt,Fractured,240,19.86,333,6.74,955,178,97,0.39,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0402,13.989,78.4516,Granite,Fractured,43,3.32,405,7.85,1145,490,44,1.54,Percussion Drilling,Suitable,Moderate
+Anantapur,Site-0403,13.0644,77.8028,Basalt,Semi-confined,267,10.73,84,6.67,1545,348,92,1.91,Percussion Drilling,Not Suitable,Moderate
+Guntur,Site-0404,18.0494,78.1941,Granite,Unconfined,120,7.29,323,7.98,544,179,86,1.57,Down-the-Hole,Not Suitable,Good
+Krishna,Site-0405,15.1485,78.5167,Granite,Confined,256,14.54,478,7.77,1270,756,85,1.49,Rotary Drilling,Not Suitable,Moderate
+Guntur,Site-0406,15.6639,81.1874,Granite,Fractured,133,18.72,241,8.32,609,193,3,0.96,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0407,17.0798,77.4422,Granite,Confined,115,2.79,312,6.72,869,430,72,1.33,Percussion Drilling,Not Suitable,Poor
+Nellore,Site-0408,18.6335,77.8456,Basalt,Unconfined,212,7.82,57,7.3,847,112,50,0.58,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0409,16.8997,79.5829,Granite,Confined,240,7.43,356,7.5,408,649,73,0.51,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0410,18.8885,81.8742,Alluvium,Confined,200,5.16,439,8.27,851,782,62,0.32,Rotary Drilling,Not Suitable,Poor
+West Godavari,Site-0411,15.6935,80.5772,Alluvium,Confined,287,12.57,56,6.97,1462,227,40,0.63,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0412,13.4763,77.9629,Shale,Semi-confined,133,4.73,154,7.78,687,712,57,1.53,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0413,14.9052,82.5088,Granite,Fractured,177,15.51,167,8.19,878,450,32,0.57,Rotary Drilling,Not Suitable,Poor
+Kurnool,Site-0414,17.8087,81.8739,Basalt,Fractured,296,7.79,276,7.76,332,603,9,1.92,Rotary Drilling,Suitable,Poor
+Kadapa,Site-0415,18.6296,77.8789,Basalt,Confined,150,11.13,268,7.95,837,268,93,0.56,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0416,14.4938,78.9975,Shale,Confined,169,17.52,296,6.66,936,507,49,0.5,Auger Drilling,Suitable,Moderate
+East Godavari,Site-0417,16.6564,80.034,Basalt,Fractured,40,15.71,268,8.21,1754,407,77,1.17,Percussion Drilling,Not Suitable,Moderate
+Nellore,Site-0418,15.7819,80.1752,Shale,Fractured,66,8.0,416,7.44,516,294,1,0.22,Down-the-Hole,Suitable,Moderate
+Nellore,Site-0419,18.5541,83.582,Alluvium,Semi-confined,226,10.81,378,8.48,345,518,5,1.99,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0420,13.9742,82.3407,Sandstone,Semi-confined,290,14.76,375,7.88,1626,159,84,0.89,Auger Drilling,Not Suitable,Poor
+Kurnool,Site-0421,14.4541,77.2416,Sandstone,Unconfined,105,6.7,283,8.39,501,360,32,1.28,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0422,17.6258,81.5108,Shale,Fractured,71,11.33,146,8.25,539,537,33,1.45,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0423,17.4036,82.2672,Alluvium,Unconfined,85,13.45,447,8.1,1867,246,35,1.55,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0424,13.0385,78.1788,Shale,Unconfined,79,3.26,406,7.34,1053,770,37,1.52,Percussion Drilling,Suitable,Good
+Prakasam,Site-0425,14.1184,77.9403,Shale,Confined,287,19.07,280,7.63,635,290,26,0.31,Percussion Drilling,Suitable,Good
+Guntur,Site-0426,18.8977,83.1013,Shale,Unconfined,115,3.44,93,7.26,766,165,44,0.25,Percussion Drilling,Not Suitable,Moderate
+Krishna,Site-0427,17.0368,77.7057,Granite,Semi-confined,33,13.98,454,8.48,398,316,67,1.63,Auger Drilling,Not Suitable,Poor
+East Godavari,Site-0428,18.9214,82.3295,Shale,Fractured,202,12.88,222,7.24,902,422,31,1.89,Auger Drilling,Suitable,Moderate
+West Godavari,Site-0429,13.3434,79.4922,Sandstone,Unconfined,31,10.22,407,7.3,1910,242,4,1.28,Down-the-Hole,Suitable,Poor
+Kurnool,Site-0430,15.2106,81.3285,Alluvium,Fractured,293,9.44,146,6.51,1506,429,3,1.34,Rotary Drilling,Suitable,Poor
+Prakasam,Site-0431,17.0676,78.6349,Shale,Fractured,71,8.27,293,8.47,1955,202,94,0.89,Percussion Drilling,Not Suitable,Poor
+Kadapa,Site-0432,18.2192,83.1336,Alluvium,Unconfined,95,10.96,94,7.1,1578,661,60,0.5,Auger Drilling,Not Suitable,Good
+Krishna,Site-0433,16.9759,78.6863,Basalt,Confined,75,3.9,416,6.56,868,492,99,0.7,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0434,18.709,81.6942,Alluvium,Confined,281,3.63,404,7.17,658,689,99,1.86,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0435,15.2621,82.0221,Alluvium,Fractured,253,16.55,164,7.02,795,189,15,0.36,Percussion Drilling,Suitable,Poor
+Chittoor,Site-0436,16.437,77.8919,Sandstone,Fractured,30,7.59,352,7.57,1934,497,55,0.78,Down-the-Hole,Not Suitable,Poor
+Kadapa,Site-0437,16.1185,81.2113,Basalt,Unconfined,232,2.17,486,7.42,496,403,29,1.1,Auger Drilling,Suitable,Good
+West Godavari,Site-0438,14.7004,82.2294,Alluvium,Unconfined,193,7.56,402,6.75,1936,687,62,1.34,Percussion Drilling,Not Suitable,Moderate
+Guntur,Site-0439,17.2248,79.637,Sandstone,Confined,137,17.27,464,6.95,1706,153,100,0.52,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0440,14.7946,82.7051,Basalt,Unconfined,230,8.07,397,7.45,913,500,51,0.33,Down-the-Hole,Not Suitable,Moderate
+Kurnool,Site-0441,17.2067,80.8361,Granite,Confined,195,15.54,347,8.23,310,411,59,1.38,Percussion Drilling,Not Suitable,Moderate
+Krishna,Site-0442,14.7465,78.0138,Basalt,Confined,34,8.52,488,7.65,1589,251,49,1.91,Auger Drilling,Suitable,Poor
+Kadapa,Site-0443,18.5559,77.6723,Shale,Confined,56,4.11,313,7.8,1415,544,20,1.33,Auger Drilling,Suitable,Good
+Anantapur,Site-0444,13.7128,79.7765,Sandstone,Confined,222,15.97,457,7.84,383,574,84,0.89,Auger Drilling,Not Suitable,Moderate
+Anantapur,Site-0445,13.72,77.5785,Shale,Confined,41,12.56,343,7.46,1620,196,76,0.53,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0446,14.7902,77.8767,Sandstone,Unconfined,124,9.3,408,6.54,1338,649,68,1.08,Rotary Drilling,Not Suitable,Good
+Chittoor,Site-0447,14.084,81.1937,Basalt,Unconfined,258,16.41,112,6.58,1377,311,84,0.49,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0448,18.8796,80.543,Sandstone,Confined,246,19.59,386,6.5,815,147,67,1.83,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0449,15.6695,81.0395,Alluvium,Semi-confined,297,18.39,230,7.71,1245,314,89,0.38,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0450,14.1284,79.098,Basalt,Confined,140,12.65,192,6.76,1474,532,10,1.19,Down-the-Hole,Suitable,Moderate
+Kadapa,Site-0451,15.4004,77.5828,Sandstone,Fractured,103,11.65,86,7.76,751,748,90,1.36,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0452,16.6297,79.9378,Basalt,Semi-confined,252,8.82,359,6.99,753,227,69,0.4,Auger Drilling,Not Suitable,Good
+Prakasam,Site-0453,16.8411,79.5397,Sandstone,Semi-confined,104,17.64,165,7.05,400,486,29,0.88,Rotary Drilling,Suitable,Good
+Kadapa,Site-0454,16.1589,83.1286,Limestone,Fractured,78,11.52,408,7.64,777,664,35,1.29,Rotary Drilling,Suitable,Good
+Prakasam,Site-0455,18.6791,79.7269,Sandstone,Fractured,274,12.66,182,6.52,1251,259,85,0.43,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0456,13.3172,82.0779,Sandstone,Confined,244,14.72,143,7.38,924,579,65,0.72,Auger Drilling,Not Suitable,Poor
+Kurnool,Site-0457,14.8311,83.0055,Sandstone,Fractured,190,17.21,374,6.66,1694,345,12,0.5,Rotary Drilling,Suitable,Good
+Guntur,Site-0458,16.325,80.45,Granite,Fractured,290,18.78,119,7.46,1254,793,69,1.46,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0459,14.1411,82.8198,Granite,Fractured,206,6.4,428,7.82,1886,640,88,1.3,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0460,18.4228,78.2237,Sandstone,Confined,293,8.36,76,7.35,976,274,48,1.95,Down-the-Hole,Not Suitable,Poor
+Kurnool,Site-0461,17.9904,82.9554,Granite,Semi-confined,183,10.7,185,6.93,1711,746,73,0.91,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0462,17.9544,77.248,Shale,Fractured,59,8.4,365,7.42,811,462,14,0.21,Percussion Drilling,Suitable,Moderate
+Prakasam,Site-0463,13.0532,80.0156,Basalt,Unconfined,300,11.26,128,7.32,1198,107,20,1.59,Down-the-Hole,Suitable,Good
+Krishna,Site-0464,15.3722,79.095,Shale,Confined,167,3.96,274,7.81,1099,265,18,0.84,Auger Drilling,Suitable,Good
+Prakasam,Site-0465,18.3015,81.9645,Granite,Confined,175,2.72,252,7.34,878,132,21,1.4,Auger Drilling,Suitable,Poor
+Guntur,Site-0466,13.7128,80.4235,Shale,Confined,196,15.52,449,8.26,1227,498,17,0.4,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0467,13.9333,80.5,Alluvium,Confined,56,14.21,225,7.36,1422,108,56,1.06,Down-the-Hole,Not Suitable,Moderate
+Chittoor,Site-0468,17.5654,78.7342,Basalt,Confined,157,7.06,108,8.23,1635,353,86,1.68,Percussion Drilling,Not Suitable,Moderate
+Chittoor,Site-0469,17.2069,80.5163,Basalt,Confined,106,6.13,117,7.3,760,296,19,0.97,Percussion Drilling,Suitable,Good
+Anantapur,Site-0470,15.2821,80.6748,Alluvium,Confined,143,8.05,295,6.62,1074,759,7,0.75,Down-the-Hole,Suitable,Moderate
+Guntur,Site-0471,18.658,81.9811,Basalt,Semi-confined,54,5.27,50,6.6,1725,429,28,0.71,Down-the-Hole,Not Suitable,Poor
+Chittoor,Site-0472,15.5854,78.7658,Shale,Semi-confined,201,7.48,99,7.84,1598,665,99,1.75,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0473,17.4576,81.1224,Limestone,Semi-confined,151,13.7,157,7.67,378,208,17,1.33,Rotary Drilling,Suitable,Good
+West Godavari,Site-0474,18.81,83.1883,Basalt,Confined,258,18.66,88,8.38,1467,451,39,1.51,Percussion Drilling,Not Suitable,Poor
+Kadapa,Site-0475,13.2629,78.3419,Limestone,Semi-confined,207,18.11,279,7.76,440,546,9,1.07,Rotary Drilling,Suitable,Good
+West Godavari,Site-0476,14.6449,83.7724,Sandstone,Unconfined,61,16.3,405,6.88,1868,507,64,1.43,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0477,17.5044,79.6891,Shale,Fractured,169,5.72,51,6.82,646,706,90,0.22,Auger Drilling,Not Suitable,Poor
+East Godavari,Site-0478,14.553,82.9673,Sandstone,Semi-confined,90,5.08,73,7.57,797,140,82,0.47,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0479,18.2403,77.3606,Basalt,Confined,89,2.03,227,7.77,955,432,11,1.9,Down-the-Hole,Suitable,Poor
+Kadapa,Site-0480,15.4501,81.2804,Sandstone,Unconfined,35,16.83,162,7.96,772,280,33,1.95,Rotary Drilling,Suitable,Poor
+Nellore,Site-0481,18.6739,78.8014,Alluvium,Confined,256,5.97,187,6.91,1489,504,20,1.0,Auger Drilling,Suitable,Moderate
+Kadapa,Site-0482,18.413,77.6558,Basalt,Fractured,124,16.68,140,6.88,1204,284,83,0.71,Down-the-Hole,Not Suitable,Good
+Kadapa,Site-0483,17.905,81.8116,Basalt,Unconfined,103,3.3,175,7.41,1521,512,13,1.5,Percussion Drilling,Suitable,Poor
+Anantapur,Site-0484,16.6198,79.6451,Granite,Unconfined,36,15.74,379,8.37,470,354,99,0.35,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0485,13.081,83.7645,Granite,Semi-confined,73,5.64,295,8.02,1109,267,40,0.8,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0486,16.2612,78.8722,Limestone,Unconfined,40,16.85,102,7.59,410,623,54,0.46,Percussion Drilling,Not Suitable,Good
+Kurnool,Site-0487,15.5628,78.0316,Alluvium,Semi-confined,145,18.59,400,7.27,1664,215,63,0.51,Rotary Drilling,Not Suitable,Good
+Chittoor,Site-0488,18.7388,78.9727,Granite,Semi-confined,90,8.49,93,8.29,1438,254,23,0.97,Down-the-Hole,Not Suitable,Poor
+Kadapa,Site-0489,17.0766,78.0515,Alluvium,Semi-confined,176,8.27,103,7.04,1222,777,48,1.88,Rotary Drilling,Suitable,Good
+Kadapa,Site-0490,17.6667,78.0261,Basalt,Fractured,258,14.98,452,8.45,1868,168,15,1.24,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0491,14.9383,77.8928,Shale,Semi-confined,193,10.9,296,7.89,1047,716,82,0.8,Percussion Drilling,Not Suitable,Moderate
+Nellore,Site-0492,16.296,80.7712,Shale,Confined,226,3.51,416,7.34,1383,324,90,0.36,Down-the-Hole,Not Suitable,Good
+Kurnool,Site-0493,18.9634,77.1201,Limestone,Fractured,98,18.58,80,8.32,939,242,38,1.03,Auger Drilling,Not Suitable,Good
+Kurnool,Site-0494,17.9669,77.3911,Basalt,Unconfined,103,8.79,63,7.89,1069,480,7,1.46,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0495,18.2229,77.2113,Sandstone,Confined,70,6.41,56,7.64,1866,526,20,1.58,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0496,17.4886,81.8899,Sandstone,Fractured,240,15.01,277,8.06,1623,113,37,0.4,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0497,16.625,78.2151,Basalt,Unconfined,232,16.99,398,8.4,1130,667,92,1.69,Down-the-Hole,Not Suitable,Poor
+Kurnool,Site-0498,15.542,78.0976,Granite,Fractured,94,15.38,255,7.74,648,501,24,1.68,Rotary Drilling,Suitable,Poor
+Krishna,Site-0499,15.8645,81.5689,Shale,Fractured,114,2.98,240,7.79,598,376,14,0.39,Down-the-Hole,Suitable,Poor
+Prakasam,Site-0500,13.1683,78.9754,Limestone,Unconfined,63,5.81,55,8.01,833,292,71,0.56,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0501,13.5102,80.9909,Granite,Fractured,53,2.86,97,8.39,217,465,97,0.71,Auger Drilling,Not Suitable,Poor
+Kurnool,Site-0502,14.8868,79.7345,Sandstone,Confined,79,7.96,429,7.51,1228,253,4,1.26,Auger Drilling,Suitable,Moderate
+West Godavari,Site-0503,18.2129,77.2619,Basalt,Confined,267,3.42,370,6.69,1671,337,28,1.65,Percussion Drilling,Suitable,Poor
+Kadapa,Site-0504,18.9605,80.5113,Alluvium,Semi-confined,259,16.14,223,7.08,1476,541,6,1.8,Auger Drilling,Suitable,Good
+Kurnool,Site-0505,18.9821,81.2481,Basalt,Fractured,79,16.49,123,8.03,833,660,12,1.1,Auger Drilling,Not Suitable,Moderate
+Kadapa,Site-0506,18.6043,78.1303,Sandstone,Semi-confined,210,3.61,141,7.92,1143,364,61,1.96,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0507,18.639,83.8018,Shale,Unconfined,216,17.46,255,7.32,1469,796,17,0.99,Down-the-Hole,Suitable,Moderate
+Chittoor,Site-0508,17.0932,80.5416,Sandstone,Unconfined,59,15.34,175,7.9,1348,108,20,1.74,Down-the-Hole,Suitable,Moderate
+Kadapa,Site-0509,16.4208,82.9768,Basalt,Fractured,266,14.04,228,7.43,1515,647,60,0.4,Percussion Drilling,Not Suitable,Poor
+Chittoor,Site-0510,18.5048,83.4574,Shale,Confined,235,7.92,212,7.18,1437,597,28,1.46,Auger Drilling,Suitable,Good
+Guntur,Site-0511,15.7275,80.8156,Shale,Confined,139,7.76,66,8.48,1785,489,8,1.89,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0512,14.2805,78.4805,Granite,Fractured,168,6.54,140,6.67,341,380,52,0.35,Auger Drilling,Not Suitable,Moderate
+East Godavari,Site-0513,14.2846,83.2515,Basalt,Unconfined,77,18.11,269,7.18,1742,404,22,0.56,Auger Drilling,Suitable,Moderate
+Krishna,Site-0514,16.213,82.487,Alluvium,Fractured,211,18.43,342,7.28,220,674,77,0.56,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0515,13.0851,83.2755,Basalt,Fractured,192,4.04,395,7.31,1266,103,58,1.9,Percussion Drilling,Not Suitable,Poor
+Krishna,Site-0516,16.8335,81.0486,Granite,Confined,126,9.56,329,8.05,1430,486,28,0.83,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0517,18.7306,79.5918,Sandstone,Unconfined,184,18.14,307,8.14,455,611,84,2.0,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0518,15.1133,80.7973,Limestone,Semi-confined,88,18.67,284,7.36,562,666,77,0.49,Auger Drilling,Not Suitable,Moderate
+Guntur,Site-0519,18.0705,81.8199,Shale,Semi-confined,80,19.92,462,8.17,383,765,3,1.31,Auger Drilling,Not Suitable,Good
+Krishna,Site-0520,17.4997,81.3668,Limestone,Unconfined,257,11.06,462,6.57,793,530,28,0.6,Auger Drilling,Suitable,Poor
+Nellore,Site-0521,13.687,82.9944,Granite,Semi-confined,267,9.43,470,7.79,1806,505,1,1.89,Percussion Drilling,Suitable,Poor
+Guntur,Site-0522,14.6057,81.6108,Sandstone,Fractured,153,2.07,262,6.57,253,257,48,1.71,Down-the-Hole,Suitable,Moderate
+Kadapa,Site-0523,18.755,83.9498,Basalt,Fractured,128,13.09,251,8.16,1841,691,55,0.43,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0524,15.4187,79.2269,Basalt,Fractured,148,3.79,460,6.75,442,746,74,1.61,Down-the-Hole,Not Suitable,Poor
+Kadapa,Site-0525,18.6922,78.4263,Granite,Unconfined,253,2.21,444,7.69,256,732,91,1.18,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0526,13.1517,82.1392,Shale,Semi-confined,125,6.31,163,7.09,1296,351,93,1.6,Auger Drilling,Not Suitable,Moderate
+Anantapur,Site-0527,14.6498,83.5448,Alluvium,Unconfined,82,4.0,355,6.75,490,389,34,1.81,Rotary Drilling,Suitable,Good
+Krishna,Site-0528,18.0677,83.389,Basalt,Fractured,81,10.84,61,7.33,1196,740,10,0.58,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0529,16.8013,80.1561,Basalt,Confined,182,2.18,141,7.82,1492,721,5,0.41,Down-the-Hole,Suitable,Moderate
+Krishna,Site-0530,18.9695,81.2,Granite,Confined,297,15.35,112,6.89,260,648,3,1.13,Percussion Drilling,Suitable,Good
+Prakasam,Site-0531,13.6887,78.5187,Sandstone,Confined,142,3.5,404,8.38,748,380,62,0.56,Rotary Drilling,Not Suitable,Moderate
+East Godavari,Site-0532,16.9115,80.2693,Shale,Fractured,292,19.03,148,7.0,605,387,51,0.39,Down-the-Hole,Not Suitable,Good
+Kurnool,Site-0533,18.7226,80.4148,Shale,Fractured,169,16.69,368,6.72,984,539,26,1.22,Down-the-Hole,Suitable,Poor
+Chittoor,Site-0534,15.6964,83.2261,Limestone,Semi-confined,239,7.28,473,8.25,1286,460,51,0.25,Percussion Drilling,Not Suitable,Moderate
+Nellore,Site-0535,17.7454,79.5042,Granite,Confined,220,8.7,449,7.13,219,426,89,0.22,Down-the-Hole,Not Suitable,Good
+Krishna,Site-0536,16.4048,79.2509,Basalt,Unconfined,227,7.11,158,7.55,410,674,36,1.49,Rotary Drilling,Suitable,Poor
+Nellore,Site-0537,17.0928,80.0464,Sandstone,Confined,130,2.89,302,7.5,762,531,16,0.42,Percussion Drilling,Suitable,Poor
+Prakasam,Site-0538,16.547,78.655,Granite,Semi-confined,39,13.59,488,7.65,209,572,37,0.44,Auger Drilling,Suitable,Good
+East Godavari,Site-0539,18.5082,77.2738,Alluvium,Unconfined,65,10.46,474,8.11,1681,408,36,0.77,Down-the-Hole,Not Suitable,Moderate
+Chittoor,Site-0540,16.3387,79.1922,Limestone,Unconfined,231,7.37,282,7.49,1512,224,48,1.89,Rotary Drilling,Suitable,Good
+Kurnool,Site-0541,13.287,77.0728,Granite,Semi-confined,253,6.07,95,6.88,1863,477,69,1.98,Rotary Drilling,Not Suitable,Moderate
+Anantapur,Site-0542,13.6648,83.63,Granite,Semi-confined,198,14.38,455,8.12,752,274,18,1.25,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0543,18.1714,82.2712,Shale,Fractured,92,11.39,173,7.66,1554,601,36,0.78,Auger Drilling,Suitable,Good
+Chittoor,Site-0544,14.5829,79.0736,Granite,Semi-confined,154,13.87,426,8.21,1623,179,10,1.95,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0545,17.023,80.2771,Shale,Confined,279,3.88,156,8.13,1759,640,66,1.75,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0546,16.9317,82.9346,Granite,Confined,142,18.5,247,8.45,1977,735,66,0.57,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0547,14.667,78.1494,Sandstone,Unconfined,105,10.3,104,7.99,692,116,59,0.54,Rotary Drilling,Not Suitable,Moderate
+East Godavari,Site-0548,15.7158,78.8591,Limestone,Unconfined,211,9.77,127,7.29,1082,620,43,0.3,Down-the-Hole,Suitable,Moderate
+Chittoor,Site-0549,13.2948,79.6777,Shale,Confined,180,5.41,140,7.69,1284,722,64,1.13,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0550,16.8781,83.7128,Basalt,Unconfined,57,18.11,344,7.03,334,644,13,0.7,Auger Drilling,Suitable,Moderate
+Nellore,Site-0551,13.6078,82.1375,Alluvium,Semi-confined,283,5.7,452,6.91,1504,394,91,1.27,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0552,16.0194,81.9033,Shale,Semi-confined,152,5.06,398,6.64,583,440,59,0.46,Rotary Drilling,Not Suitable,Poor
+Krishna,Site-0553,15.5675,77.1458,Sandstone,Unconfined,117,14.23,486,6.52,921,585,75,0.2,Percussion Drilling,Not Suitable,Moderate
+Chittoor,Site-0554,13.2711,77.1217,Alluvium,Semi-confined,146,11.45,135,8.01,1787,196,13,0.75,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0555,17.4089,83.9286,Sandstone,Fractured,159,8.56,56,8.16,816,441,67,1.59,Auger Drilling,Not Suitable,Good
+Guntur,Site-0556,17.1147,82.0975,Granite,Confined,240,17.41,387,8.49,931,609,4,0.64,Auger Drilling,Not Suitable,Moderate
+Kurnool,Site-0557,17.4662,78.3569,Shale,Unconfined,170,17.79,397,7.59,1120,639,23,0.68,Down-the-Hole,Suitable,Moderate
+Nellore,Site-0558,16.5349,83.6169,Sandstone,Semi-confined,127,2.74,316,7.9,1908,727,16,0.98,Auger Drilling,Suitable,Poor
+Prakasam,Site-0559,14.7305,83.7863,Shale,Confined,268,14.26,317,8.43,1477,671,86,0.49,Auger Drilling,Not Suitable,Moderate
+Chittoor,Site-0560,17.7987,77.1091,Granite,Confined,174,16.86,113,6.61,826,105,56,0.83,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0561,13.8263,83.1511,Limestone,Confined,74,14.84,123,8.49,602,542,75,1.85,Down-the-Hole,Not Suitable,Good
+Anantapur,Site-0562,15.8391,79.4824,Alluvium,Fractured,246,9.18,100,8.29,818,711,40,0.51,Auger Drilling,Not Suitable,Poor
+Prakasam,Site-0563,17.8263,77.9742,Basalt,Semi-confined,99,9.49,152,7.1,375,404,73,1.87,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0564,15.2558,83.1315,Shale,Unconfined,100,11.48,405,7.13,1603,466,60,0.84,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0565,15.7677,83.3879,Granite,Fractured,75,15.61,364,8.31,1811,348,75,1.12,Percussion Drilling,Not Suitable,Poor
+East Godavari,Site-0566,18.3995,83.1446,Granite,Fractured,94,9.25,53,7.43,1762,630,59,1.71,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0567,17.9794,81.5492,Sandstone,Unconfined,178,12.18,403,7.16,324,224,95,1.25,Rotary Drilling,Not Suitable,Poor
+Kurnool,Site-0568,16.0976,80.9343,Shale,Confined,144,18.11,377,8.2,816,743,40,1.49,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0569,17.1266,77.803,Granite,Confined,91,11.36,176,6.91,1170,125,65,1.0,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0570,15.4273,83.8789,Basalt,Semi-confined,254,17.47,365,6.75,499,751,3,0.53,Percussion Drilling,Suitable,Good
+East Godavari,Site-0571,17.45,80.8268,Shale,Fractured,178,7.21,101,8.42,1209,476,86,0.7,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0572,15.7838,82.6945,Basalt,Unconfined,175,10.23,338,7.28,1388,410,5,1.36,Auger Drilling,Suitable,Good
+Prakasam,Site-0573,18.7768,80.2753,Alluvium,Fractured,171,2.16,131,7.22,1952,615,27,0.83,Auger Drilling,Suitable,Poor
+Chittoor,Site-0574,14.047,78.0598,Alluvium,Semi-confined,265,14.87,452,6.78,1807,774,39,1.86,Rotary Drilling,Suitable,Poor
+Krishna,Site-0575,15.2591,80.3023,Alluvium,Confined,289,15.96,319,7.02,1629,431,76,1.92,Down-the-Hole,Not Suitable,Poor
+West Godavari,Site-0576,17.9793,77.473,Granite,Confined,148,3.74,104,7.5,1591,587,42,1.57,Percussion Drilling,Suitable,Good
+Kadapa,Site-0577,17.369,79.6886,Shale,Unconfined,61,13.01,108,6.57,1735,174,57,1.57,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0578,13.646,80.1466,Basalt,Confined,130,6.54,274,7.86,661,306,95,0.49,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0579,13.1455,83.7188,Granite,Confined,47,16.58,52,7.22,1035,681,70,1.76,Down-the-Hole,Not Suitable,Good
+East Godavari,Site-0580,15.9771,82.8268,Limestone,Fractured,286,8.34,366,8.3,1947,241,9,0.99,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0581,13.4689,82.4767,Sandstone,Unconfined,90,10.98,76,7.7,877,123,29,1.68,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0582,17.2196,77.4757,Basalt,Semi-confined,68,11.62,173,8.21,1451,612,40,0.92,Rotary Drilling,Not Suitable,Poor
+Chittoor,Site-0583,16.4966,83.5585,Sandstone,Unconfined,46,8.08,183,6.9,1766,160,18,0.57,Down-the-Hole,Suitable,Poor
+Anantapur,Site-0584,14.4137,77.5104,Limestone,Unconfined,207,19.66,263,7.7,1454,182,71,1.06,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0585,13.6244,80.4762,Basalt,Semi-confined,250,10.6,450,8.2,666,121,8,0.25,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0586,18.1618,81.7736,Alluvium,Unconfined,276,2.94,442,7.25,456,540,90,0.97,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0587,13.708,81.3096,Sandstone,Semi-confined,129,8.18,79,6.98,388,702,2,0.61,Rotary Drilling,Not Suitable,Good
+Kurnool,Site-0588,17.8757,77.5363,Basalt,Fractured,122,7.09,210,7.2,1541,350,38,0.43,Auger Drilling,Suitable,Moderate
+Chittoor,Site-0589,16.9395,77.5346,Limestone,Confined,283,14.69,466,7.21,1958,325,57,1.48,Down-the-Hole,Not Suitable,Poor
+Guntur,Site-0590,18.2138,78.7094,Sandstone,Semi-confined,287,3.88,227,8.3,1644,736,63,0.7,Percussion Drilling,Not Suitable,Good
+East Godavari,Site-0591,14.3832,82.1934,Basalt,Unconfined,220,15.05,453,6.78,681,550,84,1.58,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0592,18.018,78.8921,Limestone,Fractured,183,16.89,93,6.62,1950,724,50,1.09,Auger Drilling,Not Suitable,Moderate
+Krishna,Site-0593,13.2665,78.4401,Basalt,Fractured,56,13.89,66,7.58,912,126,78,1.56,Down-the-Hole,Not Suitable,Moderate
+West Godavari,Site-0594,14.2993,77.1914,Alluvium,Fractured,248,16.09,426,8.0,1853,211,71,0.9,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0595,15.543,82.0345,Limestone,Semi-confined,113,19.29,289,7.99,687,235,2,0.71,Down-the-Hole,Suitable,Good
+Kurnool,Site-0596,17.628,79.0708,Limestone,Fractured,49,13.08,235,7.04,713,768,99,1.29,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0597,16.9647,82.852,Basalt,Fractured,266,2.31,54,7.43,934,591,82,1.72,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0598,16.4774,77.5568,Limestone,Semi-confined,62,9.93,182,8.03,765,365,64,0.43,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0599,16.9359,78.6287,Alluvium,Unconfined,124,14.32,490,7.38,849,142,71,1.49,Rotary Drilling,Not Suitable,Poor
+Guntur,Site-0600,18.8517,77.1128,Sandstone,Unconfined,150,8.3,89,7.51,431,623,10,0.63,Down-the-Hole,Not Suitable,Poor
+Prakasam,Site-0601,17.9748,81.7671,Granite,Fractured,174,4.58,217,7.71,937,443,53,1.82,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0602,16.7315,78.1222,Granite,Semi-confined,106,18.41,63,6.71,633,420,66,1.49,Down-the-Hole,Not Suitable,Good
+Nellore,Site-0603,17.9844,77.2282,Alluvium,Confined,225,15.73,382,6.66,358,329,73,1.11,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0604,18.0856,80.6943,Granite,Fractured,298,11.37,212,7.04,1912,689,38,1.84,Down-the-Hole,Suitable,Good
+Prakasam,Site-0605,14.3853,79.2037,Granite,Confined,257,15.19,500,7.32,363,460,72,1.11,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0606,16.6313,80.1428,Shale,Confined,94,18.66,175,8.05,1034,790,75,1.4,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0607,14.8831,77.5705,Shale,Confined,283,13.39,445,6.9,568,564,2,0.5,Auger Drilling,Suitable,Moderate
+East Godavari,Site-0608,17.2683,80.289,Granite,Confined,47,17.01,62,7.88,349,235,66,1.76,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0609,13.7647,81.8785,Basalt,Semi-confined,90,8.06,472,8.3,1411,723,79,0.39,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0610,18.6995,83.3747,Alluvium,Fractured,253,7.21,294,7.9,1702,287,93,1.58,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0611,16.5613,79.5891,Alluvium,Fractured,224,7.77,140,7.52,1404,386,99,0.37,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0612,13.2897,80.6237,Limestone,Fractured,176,7.81,213,8.01,493,142,95,1.79,Percussion Drilling,Not Suitable,Moderate
+East Godavari,Site-0613,14.6695,83.1571,Sandstone,Unconfined,207,7.13,110,7.08,1196,549,29,1.79,Down-the-Hole,Suitable,Moderate
+West Godavari,Site-0614,17.5208,83.4716,Alluvium,Semi-confined,102,3.73,332,8.18,1745,272,4,1.28,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0615,17.794,77.0467,Granite,Semi-confined,134,7.07,342,7.35,1111,633,17,1.7,Down-the-Hole,Suitable,Good
+Chittoor,Site-0616,15.6664,80.0259,Sandstone,Unconfined,100,19.88,424,7.84,924,180,96,1.63,Rotary Drilling,Not Suitable,Moderate
+Kadapa,Site-0617,16.0424,78.9328,Alluvium,Unconfined,191,18.06,69,7.37,1644,633,41,0.54,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0618,14.4755,81.1044,Basalt,Confined,165,10.46,298,8.13,1702,608,37,0.44,Rotary Drilling,Not Suitable,Poor
+Kurnool,Site-0619,13.0192,77.4708,Limestone,Confined,121,2.7,402,7.03,978,746,75,0.62,Down-the-Hole,Not Suitable,Moderate
+East Godavari,Site-0620,16.9416,78.2605,Sandstone,Confined,179,14.02,300,8.09,1003,712,46,1.18,Down-the-Hole,Not Suitable,Good
+Kurnool,Site-0621,13.6742,83.1663,Sandstone,Fractured,258,7.86,389,7.35,560,575,41,1.39,Down-the-Hole,Suitable,Poor
+Nellore,Site-0622,17.2289,82.4158,Shale,Fractured,240,14.37,64,7.08,1239,320,53,0.31,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0623,15.4674,82.6632,Shale,Fractured,163,18.42,187,7.47,648,447,82,1.67,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0624,14.3279,83.1294,Limestone,Confined,86,19.06,364,7.72,464,719,70,0.24,Rotary Drilling,Not Suitable,Moderate
+Chittoor,Site-0625,17.6826,79.333,Sandstone,Unconfined,55,11.34,235,7.57,521,648,51,1.75,Percussion Drilling,Not Suitable,Moderate
+Kadapa,Site-0626,18.4639,79.3205,Basalt,Confined,36,2.65,60,8.01,1278,204,65,0.92,Auger Drilling,Not Suitable,Good
+Kadapa,Site-0627,14.6985,77.1697,Alluvium,Confined,47,6.9,113,8.13,973,771,52,0.44,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0628,13.4433,82.0548,Alluvium,Fractured,40,2.27,475,7.58,510,197,95,1.26,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0629,18.1558,82.4934,Shale,Unconfined,184,6.93,153,6.7,1543,690,61,0.88,Auger Drilling,Not Suitable,Good
+Kurnool,Site-0630,18.8013,80.927,Shale,Semi-confined,289,6.4,58,8.49,1690,503,48,1.57,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0631,16.4673,77.1742,Basalt,Fractured,219,10.58,105,7.79,880,247,81,1.96,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0632,14.2461,83.5947,Limestone,Confined,72,4.54,365,8.18,1271,680,98,0.62,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0633,14.8687,79.3651,Basalt,Unconfined,194,14.4,356,7.31,211,374,89,0.58,Auger Drilling,Not Suitable,Poor
+Krishna,Site-0634,14.8781,81.5641,Sandstone,Fractured,277,11.26,489,7.98,1701,183,14,0.97,Rotary Drilling,Suitable,Moderate
+Kadapa,Site-0635,17.5413,78.1347,Alluvium,Unconfined,115,5.55,495,8.44,279,534,64,0.51,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0636,15.5089,77.0648,Granite,Fractured,180,14.96,500,7.85,1270,430,79,1.8,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0637,16.1395,78.4312,Limestone,Semi-confined,295,12.88,291,7.43,876,238,22,1.14,Auger Drilling,Suitable,Good
+Prakasam,Site-0638,15.4978,78.0524,Granite,Unconfined,189,14.63,152,7.89,1301,569,43,0.37,Auger Drilling,Suitable,Poor
+Kadapa,Site-0639,13.4006,81.4544,Basalt,Semi-confined,37,18.7,190,7.07,1977,536,75,1.51,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0640,18.6058,80.9278,Alluvium,Confined,69,12.67,102,7.96,773,282,34,1.21,Percussion Drilling,Suitable,Poor
+West Godavari,Site-0641,16.869,79.6806,Limestone,Semi-confined,272,5.77,51,8.07,643,193,79,0.46,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0642,14.94,83.2717,Granite,Confined,291,16.53,267,7.83,869,409,65,1.57,Percussion Drilling,Not Suitable,Poor
+Nellore,Site-0643,15.2639,79.6987,Shale,Semi-confined,189,17.1,212,7.56,1439,319,22,1.9,Down-the-Hole,Suitable,Poor
+Kadapa,Site-0644,18.0393,80.9234,Shale,Semi-confined,91,12.04,272,7.8,564,125,47,1.74,Down-the-Hole,Suitable,Poor
+Nellore,Site-0645,14.2827,80.9186,Basalt,Fractured,221,5.22,432,8.49,601,552,47,1.15,Rotary Drilling,Not Suitable,Poor
+Guntur,Site-0646,14.9707,83.3773,Sandstone,Unconfined,169,2.6,190,7.78,1015,144,90,1.47,Down-the-Hole,Not Suitable,Poor
+Anantapur,Site-0647,18.8268,82.7633,Alluvium,Fractured,262,10.83,292,8.0,1526,658,14,0.27,Rotary Drilling,Suitable,Poor
+Kadapa,Site-0648,17.2338,78.2384,Basalt,Unconfined,244,17.01,111,6.61,1505,163,41,0.38,Down-the-Hole,Suitable,Good
+West Godavari,Site-0649,17.4247,79.3287,Alluvium,Semi-confined,116,18.3,350,7.94,950,628,2,1.89,Auger Drilling,Suitable,Moderate
+Anantapur,Site-0650,13.3897,82.7753,Limestone,Confined,166,3.51,277,6.59,1446,303,89,1.11,Percussion Drilling,Not Suitable,Poor
+Anantapur,Site-0651,14.867,80.9239,Granite,Semi-confined,268,12.23,406,6.67,1148,190,15,1.85,Percussion Drilling,Suitable,Poor
+Chittoor,Site-0652,14.114,81.138,Granite,Confined,35,5.92,241,7.42,1996,352,40,1.71,Percussion Drilling,Suitable,Poor
+Kadapa,Site-0653,14.8629,79.6552,Sandstone,Confined,172,4.53,211,7.33,1910,292,35,1.79,Percussion Drilling,Suitable,Moderate
+Guntur,Site-0654,17.1853,78.8518,Shale,Semi-confined,216,8.28,378,7.55,1898,746,88,1.7,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0655,13.9342,80.981,Alluvium,Fractured,207,13.63,399,8.09,624,450,90,1.94,Down-the-Hole,Not Suitable,Good
+East Godavari,Site-0656,17.6405,78.8075,Shale,Semi-confined,46,18.59,314,7.82,581,586,18,1.04,Down-the-Hole,Suitable,Moderate
+West Godavari,Site-0657,15.2675,81.1187,Granite,Semi-confined,83,13.33,495,8.3,525,531,61,0.8,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0658,14.8377,80.2679,Basalt,Unconfined,254,16.57,283,7.69,1622,545,94,0.92,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0659,16.6057,80.3779,Shale,Semi-confined,50,19.47,499,6.97,1238,210,54,0.97,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0660,16.5585,78.1482,Basalt,Semi-confined,298,5.57,340,8.0,466,779,43,1.62,Rotary Drilling,Suitable,Good
+Guntur,Site-0661,17.7572,77.9902,Sandstone,Fractured,232,4.98,50,7.82,610,276,39,0.75,Percussion Drilling,Not Suitable,Good
+Kurnool,Site-0662,15.6193,82.0689,Basalt,Semi-confined,32,10.59,226,6.7,1326,503,90,0.58,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0663,17.9881,81.9436,Granite,Fractured,95,7.73,118,7.3,869,389,87,1.51,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0664,16.2047,79.4281,Alluvium,Unconfined,143,17.94,141,8.04,955,470,44,1.1,Rotary Drilling,Not Suitable,Poor
+West Godavari,Site-0665,17.5101,83.4021,Alluvium,Confined,100,11.0,72,6.92,1091,195,44,0.89,Percussion Drilling,Not Suitable,Moderate
+Kadapa,Site-0666,14.7098,79.7077,Shale,Unconfined,163,19.25,265,6.86,1015,798,67,1.7,Auger Drilling,Not Suitable,Good
+Prakasam,Site-0667,17.1164,77.7098,Shale,Unconfined,112,7.74,344,7.51,1605,565,2,1.08,Auger Drilling,Suitable,Moderate
+Anantapur,Site-0668,14.8177,78.8105,Alluvium,Unconfined,260,11.04,449,7.45,886,647,47,0.4,Percussion Drilling,Suitable,Moderate
+East Godavari,Site-0669,17.5577,83.0922,Granite,Confined,33,8.07,412,7.68,604,627,79,1.51,Auger Drilling,Not Suitable,Moderate
+Anantapur,Site-0670,15.7886,77.2789,Shale,Fractured,217,2.9,356,7.87,716,535,44,1.41,Rotary Drilling,Suitable,Poor
+Guntur,Site-0671,14.0724,79.4982,Granite,Fractured,196,7.36,68,7.69,931,137,69,1.53,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0672,16.2099,77.8824,Basalt,Fractured,250,18.07,226,8.44,1611,732,32,1.85,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0673,14.9595,77.268,Limestone,Unconfined,225,11.23,421,6.66,1504,409,55,0.92,Percussion Drilling,Not Suitable,Poor
+Guntur,Site-0674,17.3296,82.1988,Granite,Fractured,89,16.29,342,7.02,820,730,66,1.17,Percussion Drilling,Not Suitable,Poor
+Anantapur,Site-0675,15.2454,80.3104,Shale,Semi-confined,125,6.98,393,6.59,1016,285,87,0.71,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0676,13.1123,79.9003,Basalt,Semi-confined,166,10.32,454,8.45,851,199,29,0.6,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0677,16.6683,82.0971,Limestone,Fractured,245,13.43,218,7.58,1174,671,2,0.82,Down-the-Hole,Suitable,Moderate
+Krishna,Site-0678,13.9107,82.9805,Shale,Confined,117,14.11,180,7.31,1553,685,11,1.34,Down-the-Hole,Suitable,Good
+Kurnool,Site-0679,17.4881,80.7071,Sandstone,Semi-confined,191,10.13,289,6.56,1479,698,22,1.32,Auger Drilling,Suitable,Moderate
+Anantapur,Site-0680,17.5083,78.9872,Alluvium,Fractured,150,8.76,325,6.76,1443,226,13,0.91,Percussion Drilling,Suitable,Good
+West Godavari,Site-0681,14.7361,83.0543,Alluvium,Fractured,239,8.34,161,7.34,1427,385,41,1.59,Rotary Drilling,Suitable,Poor
+Prakasam,Site-0682,16.0138,80.7276,Basalt,Fractured,283,15.62,196,8.15,1120,260,23,0.92,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0683,17.5776,81.5933,Alluvium,Unconfined,226,12.44,264,8.45,1040,293,82,0.25,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0684,16.7195,83.9924,Limestone,Fractured,41,7.85,177,6.83,1481,583,88,0.36,Down-the-Hole,Not Suitable,Good
+West Godavari,Site-0685,18.3011,81.5788,Limestone,Confined,112,10.24,420,8.25,558,583,92,1.86,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0686,13.3889,77.2162,Limestone,Fractured,265,6.41,358,7.39,695,281,60,1.1,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0687,18.2325,83.3622,Basalt,Fractured,65,2.12,66,7.86,1032,632,61,1.75,Rotary Drilling,Not Suitable,Moderate
+Guntur,Site-0688,18.3001,80.7614,Alluvium,Unconfined,254,10.65,421,6.62,1862,507,93,1.58,Down-the-Hole,Not Suitable,Moderate
+East Godavari,Site-0689,16.7756,80.0803,Granite,Unconfined,104,17.25,438,8.15,1743,214,93,0.5,Auger Drilling,Not Suitable,Poor
+Prakasam,Site-0690,13.8517,78.7015,Shale,Confined,165,3.75,378,7.89,1138,603,97,0.64,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0691,17.1352,79.3146,Shale,Semi-confined,170,12.7,439,6.78,1268,395,4,0.6,Down-the-Hole,Suitable,Poor
+Prakasam,Site-0692,17.2828,79.1466,Alluvium,Confined,186,10.56,275,7.85,516,231,19,1.29,Auger Drilling,Suitable,Moderate
+Kurnool,Site-0693,13.168,78.4816,Sandstone,Confined,36,6.67,419,7.52,1982,629,52,1.06,Percussion Drilling,Not Suitable,Moderate
+Kadapa,Site-0694,16.5228,80.5077,Limestone,Semi-confined,223,17.58,298,7.8,1983,637,62,0.52,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0695,15.0542,79.1652,Basalt,Confined,172,12.96,423,8.08,1531,301,46,1.1,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0696,18.3888,82.1896,Sandstone,Unconfined,234,13.28,218,7.51,755,666,69,1.72,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0697,16.4002,78.7358,Sandstone,Confined,155,6.11,417,7.41,282,723,35,1.19,Rotary Drilling,Suitable,Poor
+Kurnool,Site-0698,17.4,83.4223,Basalt,Semi-confined,61,5.74,174,7.67,1390,588,60,0.38,Rotary Drilling,Not Suitable,Moderate
+Chittoor,Site-0699,14.1786,77.8148,Granite,Fractured,131,3.8,351,6.93,1197,407,73,0.22,Auger Drilling,Not Suitable,Good
+Krishna,Site-0700,17.6644,78.3636,Alluvium,Fractured,30,6.53,258,7.7,1208,746,23,0.79,Auger Drilling,Suitable,Poor
+Guntur,Site-0701,18.7086,79.0975,Limestone,Confined,204,6.96,337,7.51,1481,550,15,1.96,Percussion Drilling,Suitable,Moderate
+Anantapur,Site-0702,14.9152,83.8205,Shale,Fractured,113,5.22,439,7.36,823,196,57,0.82,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0703,17.5771,78.4925,Limestone,Semi-confined,193,15.8,291,6.71,814,724,27,1.23,Percussion Drilling,Suitable,Moderate
+Kadapa,Site-0704,14.1514,79.7737,Basalt,Confined,110,7.86,314,8.46,1538,709,54,1.6,Down-the-Hole,Not Suitable,Good
+Guntur,Site-0705,15.8319,82.9937,Sandstone,Semi-confined,104,7.51,422,7.21,1726,422,58,0.75,Auger Drilling,Not Suitable,Moderate
+Anantapur,Site-0706,17.5733,79.8286,Shale,Semi-confined,101,19.55,442,7.05,1876,307,27,1.39,Down-the-Hole,Suitable,Moderate
+Prakasam,Site-0707,13.1421,79.9925,Shale,Semi-confined,132,16.35,366,7.51,1953,380,14,0.33,Percussion Drilling,Suitable,Moderate
+Krishna,Site-0708,18.649,81.1506,Granite,Fractured,279,6.5,360,7.67,321,203,8,1.35,Down-the-Hole,Suitable,Poor
+Prakasam,Site-0709,15.6287,78.9896,Shale,Confined,67,7.84,446,7.96,1888,255,20,1.26,Percussion Drilling,Suitable,Poor
+Chittoor,Site-0710,15.6296,79.2949,Limestone,Semi-confined,179,14.41,121,8.04,339,421,47,1.83,Auger Drilling,Not Suitable,Poor
+Kurnool,Site-0711,14.1048,80.2783,Shale,Semi-confined,200,5.58,410,7.02,1436,123,18,0.41,Auger Drilling,Suitable,Moderate
+Nellore,Site-0712,17.8364,82.5867,Limestone,Unconfined,292,8.72,339,7.37,265,616,42,1.62,Auger Drilling,Suitable,Moderate
+West Godavari,Site-0713,15.0025,77.4698,Granite,Unconfined,87,11.57,458,7.53,1943,189,74,1.86,Percussion Drilling,Not Suitable,Good
+Nellore,Site-0714,17.9065,80.26,Alluvium,Confined,199,3.31,381,7.65,1129,640,100,1.45,Auger Drilling,Not Suitable,Good
+Nellore,Site-0715,16.4484,77.0445,Shale,Unconfined,34,6.05,268,6.8,1952,328,75,1.41,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0716,16.9217,78.4023,Limestone,Semi-confined,108,5.4,125,6.91,571,203,4,1.16,Rotary Drilling,Suitable,Good
+East Godavari,Site-0717,15.0911,77.4849,Sandstone,Confined,136,5.63,133,7.35,755,338,28,1.59,Rotary Drilling,Suitable,Good
+Krishna,Site-0718,13.7387,83.6361,Granite,Fractured,136,8.85,278,7.38,606,310,99,0.88,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0719,16.0402,81.0481,Limestone,Unconfined,113,15.62,111,8.38,1716,719,46,1.55,Down-the-Hole,Not Suitable,Moderate
+Kurnool,Site-0720,14.262,77.6355,Limestone,Semi-confined,274,6.6,107,8.39,233,107,49,1.65,Auger Drilling,Not Suitable,Good
+Prakasam,Site-0721,15.1624,79.1699,Granite,Fractured,183,6.13,409,6.67,1518,499,61,0.23,Down-the-Hole,Not Suitable,Poor
+Prakasam,Site-0722,13.2722,82.9319,Basalt,Unconfined,95,11.34,121,7.89,1761,139,8,1.27,Percussion Drilling,Suitable,Poor
+Guntur,Site-0723,15.2302,79.9041,Basalt,Fractured,118,5.14,315,8.43,1719,784,24,0.86,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0724,15.9853,79.1425,Alluvium,Semi-confined,165,13.19,64,8.07,879,129,61,0.26,Percussion Drilling,Not Suitable,Moderate
+Anantapur,Site-0725,16.2368,82.3375,Alluvium,Confined,110,3.8,228,8.29,388,529,9,0.4,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0726,18.1368,80.7571,Basalt,Unconfined,189,10.57,181,6.76,1544,652,47,1.92,Rotary Drilling,Suitable,Moderate
+Krishna,Site-0727,17.4923,82.9638,Basalt,Confined,142,11.27,462,8.38,661,775,11,1.54,Auger Drilling,Not Suitable,Moderate
+West Godavari,Site-0728,13.6314,78.5836,Basalt,Semi-confined,198,14.79,286,7.84,1264,629,74,1.98,Down-the-Hole,Not Suitable,Good
+Prakasam,Site-0729,15.5321,81.6284,Limestone,Unconfined,227,13.37,456,6.9,573,114,19,1.34,Percussion Drilling,Suitable,Good
+Nellore,Site-0730,14.9352,81.0046,Shale,Semi-confined,126,13.32,468,8.44,1030,562,28,1.02,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0731,13.7069,78.9551,Limestone,Semi-confined,202,19.94,145,7.01,1852,599,99,1.19,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0732,17.5796,78.84,Sandstone,Fractured,43,19.37,114,6.69,1136,213,16,1.19,Down-the-Hole,Suitable,Good
+Prakasam,Site-0733,14.8422,80.0531,Granite,Confined,233,16.76,311,6.89,1920,796,29,1.6,Percussion Drilling,Suitable,Poor
+Prakasam,Site-0734,16.1534,82.4596,Limestone,Unconfined,215,11.71,405,8.39,1287,270,48,0.49,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0735,14.3575,83.5145,Alluvium,Confined,247,17.45,192,6.6,1020,403,50,1.82,Auger Drilling,Not Suitable,Moderate
+Krishna,Site-0736,14.9315,82.0508,Sandstone,Unconfined,68,6.52,334,7.84,627,727,77,1.93,Rotary Drilling,Not Suitable,Moderate
+Kadapa,Site-0737,13.8627,82.7571,Basalt,Fractured,111,13.63,250,7.68,709,458,10,0.61,Down-the-Hole,Suitable,Good
+Nellore,Site-0738,13.7408,82.1776,Alluvium,Confined,135,9.98,394,7.05,870,111,82,0.41,Down-the-Hole,Not Suitable,Poor
+Chittoor,Site-0739,17.6299,81.1891,Basalt,Fractured,182,16.8,327,7.99,1130,257,10,1.78,Down-the-Hole,Suitable,Moderate
+Anantapur,Site-0740,15.289,83.2378,Granite,Fractured,248,12.53,498,7.92,1972,598,98,0.72,Rotary Drilling,Not Suitable,Good
+West Godavari,Site-0741,18.7584,83.0556,Basalt,Fractured,251,9.59,376,6.71,1776,386,93,1.52,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0742,14.973,81.6688,Sandstone,Semi-confined,72,2.23,415,8.11,697,699,64,0.6,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0743,13.6238,82.4665,Alluvium,Fractured,222,12.92,495,8.35,983,143,78,0.39,Rotary Drilling,Not Suitable,Poor
+Chittoor,Site-0744,13.7048,82.3482,Sandstone,Fractured,231,14.93,70,7.19,1814,550,59,1.23,Rotary Drilling,Not Suitable,Moderate
+Nellore,Site-0745,17.0144,77.1795,Limestone,Confined,42,13.35,218,6.7,1044,129,94,1.02,Down-the-Hole,Not Suitable,Moderate
+Prakasam,Site-0746,15.1143,83.7591,Sandstone,Fractured,54,7.84,407,8.48,738,264,27,1.21,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0747,17.5199,82.4668,Basalt,Fractured,75,8.01,365,7.58,1848,333,41,1.69,Rotary Drilling,Suitable,Poor
+Chittoor,Site-0748,16.8367,79.1905,Shale,Confined,225,5.64,488,7.91,918,445,57,1.81,Percussion Drilling,Not Suitable,Good
+Prakasam,Site-0749,13.0956,78.3285,Sandstone,Semi-confined,121,9.16,406,6.65,391,192,92,1.28,Auger Drilling,Not Suitable,Moderate
+Kadapa,Site-0750,17.2953,80.7298,Shale,Confined,227,3.87,426,8.13,1835,400,79,1.23,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0751,15.6552,77.2854,Limestone,Confined,170,2.47,164,8.17,648,351,29,0.99,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0752,14.7808,83.7521,Limestone,Fractured,254,9.46,332,8.5,593,522,24,1.73,Auger Drilling,Not Suitable,Poor
+West Godavari,Site-0753,18.3316,83.8539,Alluvium,Semi-confined,216,16.46,184,7.36,946,340,41,1.17,Rotary Drilling,Suitable,Poor
+Kadapa,Site-0754,14.93,82.7921,Alluvium,Confined,95,3.74,451,8.47,1650,587,69,0.76,Percussion Drilling,Not Suitable,Poor
+Prakasam,Site-0755,17.3054,81.5148,Limestone,Confined,268,6.84,478,6.61,1467,548,64,1.26,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0756,16.3598,80.913,Granite,Semi-confined,274,17.62,125,6.63,925,166,93,0.7,Down-the-Hole,Not Suitable,Poor
+Anantapur,Site-0757,17.2817,80.4357,Alluvium,Confined,232,5.87,281,7.12,1627,790,39,0.79,Auger Drilling,Suitable,Good
+East Godavari,Site-0758,18.8811,81.1081,Granite,Unconfined,213,12.57,446,8.45,1457,165,68,0.94,Percussion Drilling,Not Suitable,Poor
+Kurnool,Site-0759,14.4928,81.2107,Basalt,Confined,45,13.69,303,7.96,879,191,13,1.9,Auger Drilling,Suitable,Moderate
+Nellore,Site-0760,17.1785,77.9696,Sandstone,Confined,79,7.6,140,7.91,2000,358,64,0.36,Down-the-Hole,Not Suitable,Moderate
+Kurnool,Site-0761,14.3598,83.8995,Alluvium,Unconfined,203,10.13,98,7.55,241,720,8,1.97,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0762,13.5729,77.0121,Limestone,Unconfined,32,7.88,206,6.56,1363,676,48,1.75,Percussion Drilling,Suitable,Good
+West Godavari,Site-0763,15.9892,80.7465,Sandstone,Unconfined,109,12.79,343,6.85,1102,281,65,0.47,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0764,13.2326,80.7631,Granite,Semi-confined,179,3.94,399,6.86,1261,271,13,1.1,Percussion Drilling,Suitable,Poor
+Prakasam,Site-0765,18.6269,83.5002,Limestone,Fractured,259,18.99,392,7.61,892,352,47,0.45,Auger Drilling,Suitable,Good
+Nellore,Site-0766,13.2495,77.4104,Shale,Unconfined,296,3.64,385,7.14,1279,676,74,1.46,Auger Drilling,Not Suitable,Poor
+Kurnool,Site-0767,14.6954,77.9483,Basalt,Semi-confined,248,9.28,243,6.66,248,603,14,0.78,Auger Drilling,Suitable,Poor
+Nellore,Site-0768,14.8354,83.946,Sandstone,Unconfined,300,16.96,146,8.39,828,701,96,1.82,Percussion Drilling,Not Suitable,Poor
+Prakasam,Site-0769,17.4355,80.74,Granite,Semi-confined,227,5.39,325,6.6,1890,800,56,1.53,Percussion Drilling,Not Suitable,Poor
+Prakasam,Site-0770,17.0868,77.313,Basalt,Unconfined,264,19.1,163,7.92,349,308,64,0.57,Rotary Drilling,Not Suitable,Good
+Nellore,Site-0771,14.2362,81.8257,Sandstone,Unconfined,153,13.87,475,7.16,562,499,30,0.87,Auger Drilling,Suitable,Good
+Kadapa,Site-0772,13.85,78.7232,Alluvium,Semi-confined,246,14.25,413,8.23,1482,417,27,1.89,Down-the-Hole,Not Suitable,Moderate
+Anantapur,Site-0773,15.4953,79.8955,Sandstone,Confined,279,6.56,55,7.75,1009,142,90,1.58,Percussion Drilling,Not Suitable,Poor
+Kurnool,Site-0774,13.4231,77.8007,Basalt,Fractured,64,5.3,217,6.83,1715,362,88,1.49,Auger Drilling,Not Suitable,Moderate
+East Godavari,Site-0775,14.7186,82.9886,Sandstone,Unconfined,91,9.11,153,8.4,1336,609,26,0.43,Rotary Drilling,Not Suitable,Moderate
+Krishna,Site-0776,13.6561,78.6005,Shale,Confined,72,15.73,462,6.63,1092,730,48,0.99,Percussion Drilling,Suitable,Moderate
+West Godavari,Site-0777,17.6148,81.6401,Limestone,Confined,137,15.05,72,7.64,512,449,33,1.86,Down-the-Hole,Not Suitable,Moderate
+Kurnool,Site-0778,18.4094,77.395,Shale,Confined,179,11.1,165,6.87,598,443,85,1.5,Rotary Drilling,Not Suitable,Moderate
+Chittoor,Site-0779,18.0605,81.2116,Sandstone,Confined,103,11.85,212,6.61,1602,166,53,1.13,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0780,17.3445,79.2516,Granite,Confined,83,14.32,53,7.26,1352,159,50,1.58,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0781,16.3818,77.5175,Alluvium,Fractured,227,7.08,365,7.27,1732,343,88,1.08,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0782,15.8748,83.29,Shale,Semi-confined,144,4.6,376,7.96,995,363,21,0.86,Rotary Drilling,Suitable,Moderate
+Guntur,Site-0783,13.8639,80.2195,Alluvium,Confined,235,4.25,370,7.21,1031,531,54,1.03,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0784,15.7811,79.3646,Alluvium,Fractured,98,15.02,155,6.99,1659,295,73,0.55,Down-the-Hole,Not Suitable,Moderate
+East Godavari,Site-0785,18.1746,82.5445,Sandstone,Semi-confined,139,9.07,290,6.72,1535,563,39,1.83,Auger Drilling,Suitable,Good
+Kurnool,Site-0786,14.3031,80.8619,Basalt,Fractured,294,9.77,276,6.55,622,495,73,1.4,Down-the-Hole,Not Suitable,Poor
+West Godavari,Site-0787,17.6154,81.4887,Limestone,Confined,107,9.4,289,6.99,1712,233,98,1.88,Down-the-Hole,Not Suitable,Poor
+West Godavari,Site-0788,16.1835,81.3966,Granite,Unconfined,63,3.54,54,8.34,1980,154,43,1.73,Down-the-Hole,Not Suitable,Moderate
+Kurnool,Site-0789,17.4615,83.7057,Sandstone,Unconfined,215,13.22,211,7.67,1896,557,61,0.81,Percussion Drilling,Not Suitable,Moderate
+Guntur,Site-0790,13.609,80.9332,Basalt,Confined,242,4.13,366,7.32,1350,665,81,1.05,Down-the-Hole,Not Suitable,Poor
+Kurnool,Site-0791,18.8567,81.6471,Basalt,Fractured,79,15.6,119,8.26,1168,488,62,0.51,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0792,18.5857,81.0942,Basalt,Fractured,40,19.47,393,7.63,895,187,48,0.32,Percussion Drilling,Suitable,Poor
+Guntur,Site-0793,17.0642,83.4173,Granite,Confined,194,7.26,455,8.4,370,463,78,1.97,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0794,18.3463,79.9242,Basalt,Semi-confined,159,5.46,193,8.46,248,601,41,1.83,Rotary Drilling,Not Suitable,Poor
+Kurnool,Site-0795,17.2031,78.8418,Shale,Semi-confined,50,6.91,438,7.81,1550,182,43,1.19,Percussion Drilling,Suitable,Poor
+Anantapur,Site-0796,17.4078,77.1345,Shale,Confined,270,8.84,68,7.89,753,484,43,0.86,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0797,13.794,79.4237,Sandstone,Confined,280,7.07,92,8.33,1575,186,86,1.84,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0798,17.8374,77.7493,Granite,Confined,221,3.17,342,8.1,1795,189,10,0.22,Rotary Drilling,Not Suitable,Poor
+Prakasam,Site-0799,18.221,81.3222,Basalt,Fractured,199,16.15,104,7.73,315,242,26,1.85,Rotary Drilling,Suitable,Good
+Chittoor,Site-0800,17.3095,77.6411,Shale,Confined,137,2.9,90,7.27,1480,642,25,1.06,Percussion Drilling,Not Suitable,Poor
+Krishna,Site-0801,16.6327,78.3025,Sandstone,Unconfined,256,5.33,53,6.66,604,369,19,1.78,Percussion Drilling,Not Suitable,Poor
+Chittoor,Site-0802,17.2172,77.5305,Basalt,Semi-confined,146,4.92,375,8.17,807,715,53,1.11,Down-the-Hole,Not Suitable,Good
+Nellore,Site-0803,14.5057,79.4133,Basalt,Unconfined,158,7.07,132,6.63,328,605,45,1.82,Rotary Drilling,Suitable,Poor
+Nellore,Site-0804,13.4797,82.351,Alluvium,Fractured,36,19.59,395,6.68,1404,470,90,1.43,Rotary Drilling,Not Suitable,Poor
+Guntur,Site-0805,17.3629,79.2334,Sandstone,Fractured,219,10.99,440,7.48,1318,294,30,1.26,Rotary Drilling,Suitable,Poor
+Prakasam,Site-0806,15.4584,83.1598,Sandstone,Fractured,267,17.64,287,7.4,490,494,54,1.91,Percussion Drilling,Not Suitable,Moderate
+Nellore,Site-0807,18.9386,81.4254,Shale,Semi-confined,37,9.82,468,7.82,553,254,76,1.9,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0808,15.3477,78.0493,Sandstone,Confined,41,10.95,131,7.11,1948,662,36,0.61,Auger Drilling,Suitable,Poor
+Krishna,Site-0809,15.5971,83.6313,Basalt,Fractured,60,8.36,104,6.63,862,588,78,0.72,Percussion Drilling,Not Suitable,Poor
+Krishna,Site-0810,17.8217,79.9144,Granite,Semi-confined,111,8.09,209,7.87,1078,726,16,1.28,Down-the-Hole,Suitable,Moderate
+Prakasam,Site-0811,17.8427,83.0487,Sandstone,Fractured,62,2.32,239,7.33,628,434,89,0.62,Down-the-Hole,Not Suitable,Poor
+Krishna,Site-0812,17.7208,80.885,Limestone,Semi-confined,129,18.23,214,8.06,1372,334,91,1.27,Percussion Drilling,Not Suitable,Good
+Krishna,Site-0813,16.3798,83.2339,Sandstone,Unconfined,226,15.5,369,7.14,1283,602,60,1.28,Down-the-Hole,Not Suitable,Good
+Krishna,Site-0814,15.3375,78.3523,Sandstone,Confined,216,17.26,80,7.45,657,748,1,0.79,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0815,17.7021,83.6967,Shale,Semi-confined,132,16.83,380,6.88,1423,719,16,0.73,Rotary Drilling,Suitable,Poor
+Kurnool,Site-0816,16.141,80.5289,Basalt,Fractured,246,14.61,486,6.52,734,309,19,0.73,Rotary Drilling,Suitable,Poor
+Nellore,Site-0817,13.4723,80.2546,Basalt,Fractured,225,11.99,354,7.39,843,210,36,1.02,Percussion Drilling,Suitable,Poor
+West Godavari,Site-0818,15.72,78.1403,Basalt,Semi-confined,38,4.23,494,7.15,1177,477,19,0.77,Auger Drilling,Suitable,Poor
+Anantapur,Site-0819,16.7733,81.5243,Shale,Confined,197,13.04,439,6.57,779,431,73,1.56,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0820,17.3367,81.9956,Shale,Unconfined,64,4.52,102,7.55,1661,340,12,1.56,Down-the-Hole,Suitable,Moderate
+Chittoor,Site-0821,15.4759,82.256,Shale,Fractured,61,11.44,378,8.08,1622,258,71,1.68,Percussion Drilling,Not Suitable,Moderate
+Kadapa,Site-0822,13.6915,83.38,Sandstone,Confined,152,3.02,399,7.62,307,758,90,0.61,Rotary Drilling,Not Suitable,Good
+Kurnool,Site-0823,17.5512,83.6498,Basalt,Semi-confined,195,8.98,374,7.84,239,622,98,0.72,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0824,16.3002,77.2809,Limestone,Unconfined,136,6.13,301,6.51,1637,182,75,1.79,Percussion Drilling,Not Suitable,Moderate
+Kurnool,Site-0825,13.9135,77.0514,Alluvium,Semi-confined,166,12.01,311,7.28,1909,306,97,1.29,Down-the-Hole,Not Suitable,Good
+Prakasam,Site-0826,18.3876,79.7484,Alluvium,Semi-confined,261,2.52,358,8.44,1575,624,99,0.93,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0827,15.3247,77.7471,Basalt,Confined,182,16.99,395,6.93,1414,410,47,1.03,Percussion Drilling,Suitable,Poor
+Guntur,Site-0828,14.3008,77.1667,Granite,Confined,122,17.49,155,7.5,1674,497,93,0.79,Auger Drilling,Not Suitable,Poor
+Kadapa,Site-0829,18.5249,80.3612,Limestone,Semi-confined,157,3.4,104,8.27,1946,131,80,0.29,Rotary Drilling,Not Suitable,Moderate
+Anantapur,Site-0830,14.8207,79.6699,Limestone,Confined,79,2.96,160,7.79,1066,481,10,0.7,Rotary Drilling,Suitable,Moderate
+Anantapur,Site-0831,18.3911,79.1144,Sandstone,Fractured,134,4.17,375,7.99,1596,131,61,0.51,Rotary Drilling,Not Suitable,Good
+Kurnool,Site-0832,15.7315,83.2051,Alluvium,Semi-confined,168,2.41,338,7.46,1697,256,28,0.32,Auger Drilling,Suitable,Good
+Anantapur,Site-0833,15.9845,82.8132,Shale,Confined,36,12.38,72,7.81,1776,387,91,0.71,Auger Drilling,Not Suitable,Good
+Guntur,Site-0834,13.1465,78.9037,Basalt,Confined,259,16.59,382,6.59,1353,545,72,1.91,Auger Drilling,Not Suitable,Good
+Anantapur,Site-0835,14.7191,77.6189,Sandstone,Fractured,271,11.8,241,7.82,960,664,70,0.46,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0836,16.4813,79.6048,Sandstone,Semi-confined,105,16.66,434,8.28,1583,655,53,0.85,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0837,14.5192,77.9635,Sandstone,Fractured,260,15.57,491,7.86,287,451,65,1.85,Percussion Drilling,Not Suitable,Poor
+Prakasam,Site-0838,16.2413,82.8241,Basalt,Confined,135,16.84,252,6.66,1058,214,65,1.18,Rotary Drilling,Not Suitable,Poor
+Anantapur,Site-0839,14.5283,80.8531,Basalt,Confined,201,10.81,216,7.96,1832,482,71,1.89,Auger Drilling,Not Suitable,Good
+West Godavari,Site-0840,15.1068,79.856,Granite,Confined,262,4.8,405,8.29,585,100,65,1.64,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0841,17.1696,79.1459,Shale,Semi-confined,137,11.76,99,8.4,591,124,3,0.26,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0842,17.9659,81.7634,Granite,Semi-confined,261,19.12,266,8.39,1554,512,2,1.46,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0843,15.2495,79.1265,Limestone,Fractured,51,14.22,66,7.5,919,131,33,1.46,Auger Drilling,Not Suitable,Poor
+Chittoor,Site-0844,15.5362,81.1099,Sandstone,Fractured,43,8.84,299,8.02,377,586,33,1.18,Rotary Drilling,Not Suitable,Good
+Chittoor,Site-0845,15.7281,82.2434,Basalt,Fractured,47,7.81,332,8.05,1950,562,28,1.3,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0846,16.5606,81.7267,Granite,Fractured,65,11.04,287,7.05,1357,497,69,1.38,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0847,13.706,80.6172,Basalt,Fractured,180,17.36,70,7.08,878,536,15,1.44,Rotary Drilling,Not Suitable,Good
+Krishna,Site-0848,15.9175,77.0398,Alluvium,Confined,222,2.79,143,6.95,1972,799,75,1.72,Percussion Drilling,Not Suitable,Poor
+Krishna,Site-0849,17.8505,83.6363,Granite,Unconfined,114,4.51,429,8.46,1439,676,4,0.99,Down-the-Hole,Not Suitable,Poor
+Nellore,Site-0850,13.1232,80.6762,Alluvium,Semi-confined,84,9.54,67,7.06,1341,532,9,0.32,Down-the-Hole,Not Suitable,Poor
+Prakasam,Site-0851,15.8478,80.5498,Basalt,Confined,91,2.43,94,7.64,1561,301,58,1.39,Down-the-Hole,Not Suitable,Poor
+Guntur,Site-0852,15.8673,83.7961,Alluvium,Confined,241,4.09,70,6.96,501,407,18,1.54,Auger Drilling,Not Suitable,Good
+Prakasam,Site-0853,13.36,82.5166,Granite,Semi-confined,34,7.46,465,6.77,699,591,28,0.54,Auger Drilling,Suitable,Moderate
+Krishna,Site-0854,14.2847,78.2069,Limestone,Unconfined,104,14.01,489,7.52,1963,169,62,1.12,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0855,14.4824,82.2739,Alluvium,Semi-confined,145,16.9,258,6.62,1084,143,42,1.61,Rotary Drilling,Suitable,Good
+Prakasam,Site-0856,15.3447,81.2451,Basalt,Confined,275,13.07,454,7.52,1032,761,97,1.34,Percussion Drilling,Not Suitable,Poor
+East Godavari,Site-0857,14.7258,82.4117,Shale,Unconfined,243,3.19,93,7.91,1791,249,99,1.35,Down-the-Hole,Not Suitable,Moderate
+Nellore,Site-0858,14.685,81.5512,Sandstone,Semi-confined,197,18.55,487,8.4,1247,599,50,1.56,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0859,13.5459,80.4277,Sandstone,Unconfined,158,13.32,188,8.25,1417,625,30,0.76,Down-the-Hole,Not Suitable,Good
+West Godavari,Site-0860,14.1476,83.8064,Basalt,Semi-confined,295,14.17,192,7.03,1068,785,85,0.54,Percussion Drilling,Not Suitable,Poor
+Guntur,Site-0861,14.1398,81.8019,Alluvium,Semi-confined,134,16.36,347,7.54,440,398,82,0.64,Down-the-Hole,Not Suitable,Good
+Krishna,Site-0862,15.25,79.7414,Alluvium,Semi-confined,265,11.67,124,7.01,347,358,16,1.94,Auger Drilling,Suitable,Good
+Chittoor,Site-0863,14.1336,83.5389,Shale,Fractured,171,11.2,265,6.9,304,537,81,1.97,Rotary Drilling,Not Suitable,Moderate
+Nellore,Site-0864,15.3213,77.8361,Basalt,Unconfined,215,15.68,77,6.58,343,384,14,1.19,Down-the-Hole,Not Suitable,Good
+Chittoor,Site-0865,18.5545,81.8071,Basalt,Unconfined,60,2.18,222,8.45,1673,383,37,0.97,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0866,16.622,82.2621,Limestone,Semi-confined,151,4.73,333,7.67,1761,325,22,1.65,Auger Drilling,Suitable,Good
+East Godavari,Site-0867,16.6978,83.6813,Granite,Semi-confined,278,4.24,176,8.19,652,347,59,1.3,Percussion Drilling,Not Suitable,Good
+Guntur,Site-0868,13.6443,78.6714,Sandstone,Fractured,227,10.03,168,6.7,367,518,92,1.0,Percussion Drilling,Not Suitable,Poor
+Nellore,Site-0869,18.1035,82.2549,Granite,Semi-confined,135,17.87,301,7.37,1992,636,44,0.78,Auger Drilling,Suitable,Poor
+West Godavari,Site-0870,15.3274,80.0953,Basalt,Semi-confined,103,14.66,357,8.17,1599,486,22,1.62,Percussion Drilling,Not Suitable,Good
+Prakasam,Site-0871,15.1196,78.919,Alluvium,Semi-confined,148,8.83,499,7.44,249,676,32,1.36,Rotary Drilling,Suitable,Moderate
+Anantapur,Site-0872,15.3332,79.4163,Shale,Unconfined,281,9.85,278,8.32,383,547,33,0.83,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0873,15.8712,78.1798,Limestone,Confined,48,19.62,236,6.6,668,192,91,1.85,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0874,13.3004,77.5548,Sandstone,Fractured,106,7.28,489,7.37,1983,290,30,0.94,Percussion Drilling,Suitable,Poor
+Chittoor,Site-0875,14.3909,77.6459,Granite,Confined,177,11.86,266,8.29,683,117,26,1.28,Rotary Drilling,Not Suitable,Good
+Chittoor,Site-0876,14.6143,82.482,Limestone,Unconfined,266,11.96,238,7.95,512,646,24,0.64,Rotary Drilling,Suitable,Moderate
+Kadapa,Site-0877,17.5981,80.5927,Granite,Unconfined,231,4.43,74,7.44,1933,235,31,1.75,Down-the-Hole,Not Suitable,Poor
+Guntur,Site-0878,15.7744,80.1846,Alluvium,Unconfined,157,4.92,360,8.01,337,486,18,0.2,Auger Drilling,Not Suitable,Poor
+Krishna,Site-0879,17.0652,79.7651,Limestone,Fractured,298,10.4,381,8.39,924,720,74,1.49,Auger Drilling,Not Suitable,Moderate
+East Godavari,Site-0880,18.6212,78.1683,Shale,Confined,48,5.72,357,8.49,1924,405,15,1.29,Auger Drilling,Not Suitable,Moderate
+Nellore,Site-0881,14.7971,77.1671,Shale,Confined,38,5.88,446,7.78,501,560,76,1.62,Percussion Drilling,Not Suitable,Poor
+Guntur,Site-0882,15.3782,77.9962,Basalt,Fractured,159,10.76,288,7.93,960,309,60,0.43,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0883,18.3822,83.4592,Sandstone,Semi-confined,57,8.31,247,8.27,1986,543,10,1.28,Down-the-Hole,Not Suitable,Poor
+East Godavari,Site-0884,15.8626,83.5378,Shale,Unconfined,210,7.97,208,8.34,539,111,13,0.46,Down-the-Hole,Not Suitable,Good
+Anantapur,Site-0885,16.057,81.4147,Sandstone,Unconfined,259,9.26,458,7.73,910,736,42,0.71,Rotary Drilling,Suitable,Poor
+West Godavari,Site-0886,13.7398,80.0688,Shale,Fractured,293,2.65,449,7.6,1733,679,65,0.32,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0887,16.9637,80.079,Alluvium,Semi-confined,103,4.56,150,6.69,986,382,51,0.6,Rotary Drilling,Not Suitable,Moderate
+Anantapur,Site-0888,18.7214,78.3615,Limestone,Confined,243,16.39,127,7.35,1363,361,27,0.2,Rotary Drilling,Suitable,Good
+Anantapur,Site-0889,14.593,80.3787,Granite,Confined,269,18.47,134,8.35,1210,216,11,1.4,Down-the-Hole,Not Suitable,Poor
+Prakasam,Site-0890,18.1036,83.6897,Sandstone,Semi-confined,197,11.48,391,7.86,1667,703,67,1.43,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0891,15.6032,78.9053,Limestone,Semi-confined,285,19.51,257,6.6,1411,407,33,0.39,Percussion Drilling,Suitable,Poor
+Kurnool,Site-0892,18.0669,78.5327,Basalt,Fractured,108,18.67,407,7.58,943,522,96,0.92,Down-the-Hole,Not Suitable,Moderate
+Chittoor,Site-0893,14.455,81.3614,Alluvium,Unconfined,190,18.67,79,7.37,1869,542,20,0.95,Rotary Drilling,Not Suitable,Moderate
+Prakasam,Site-0894,13.7094,78.6498,Shale,Fractured,139,9.3,484,6.97,698,725,22,0.81,Down-the-Hole,Suitable,Poor
+Nellore,Site-0895,18.1192,77.7046,Granite,Unconfined,106,11.73,302,8.29,1825,763,20,1.99,Rotary Drilling,Not Suitable,Moderate
+Kadapa,Site-0896,13.1961,79.04,Sandstone,Semi-confined,74,2.73,208,7.16,279,696,11,1.98,Rotary Drilling,Suitable,Good
+Kadapa,Site-0897,18.3823,82.7693,Shale,Unconfined,166,12.68,365,8.17,346,727,37,0.45,Auger Drilling,Not Suitable,Poor
+Guntur,Site-0898,13.9444,82.4325,Limestone,Unconfined,284,12.92,402,7.07,1005,446,86,0.49,Auger Drilling,Not Suitable,Moderate
+Prakasam,Site-0899,18.7102,79.1448,Alluvium,Fractured,244,16.53,170,8.09,1934,416,86,0.79,Percussion Drilling,Not Suitable,Moderate
+Kadapa,Site-0900,17.2194,77.2576,Granite,Unconfined,105,3.94,279,6.75,1680,175,37,1.59,Down-the-Hole,Suitable,Poor
+Kurnool,Site-0901,17.3118,80.0473,Granite,Semi-confined,137,18.12,385,6.57,520,500,25,0.82,Rotary Drilling,Suitable,Good
+Guntur,Site-0902,15.3374,82.6876,Shale,Fractured,195,10.09,467,7.15,1648,532,85,0.77,Percussion Drilling,Not Suitable,Good
+Kadapa,Site-0903,18.7257,79.9106,Shale,Semi-confined,105,2.76,121,6.98,1436,607,36,1.83,Percussion Drilling,Suitable,Moderate
+Anantapur,Site-0904,17.6252,81.4208,Alluvium,Semi-confined,220,8.07,103,7.47,1888,613,26,0.58,Down-the-Hole,Suitable,Poor
+East Godavari,Site-0905,14.6407,79.7348,Limestone,Confined,252,15.85,424,8.1,1131,705,71,0.72,Auger Drilling,Not Suitable,Good
+Guntur,Site-0906,14.9956,79.8514,Alluvium,Unconfined,272,16.93,263,8.36,1446,685,30,1.86,Percussion Drilling,Not Suitable,Moderate
+Guntur,Site-0907,14.8017,81.5644,Granite,Confined,160,9.11,52,7.56,283,327,58,0.63,Rotary Drilling,Not Suitable,Moderate
+Anantapur,Site-0908,18.7518,82.6167,Sandstone,Fractured,38,11.03,425,8.09,1510,413,99,1.28,Rotary Drilling,Not Suitable,Moderate
+West Godavari,Site-0909,14.2805,81.629,Sandstone,Unconfined,150,18.66,249,7.62,872,281,70,1.38,Rotary Drilling,Not Suitable,Poor
+Nellore,Site-0910,13.4781,81.5279,Shale,Unconfined,80,4.34,433,7.96,546,773,38,1.41,Auger Drilling,Suitable,Good
+Nellore,Site-0911,14.2246,78.1474,Granite,Semi-confined,188,19.96,404,7.6,340,178,20,1.77,Rotary Drilling,Suitable,Good
+Chittoor,Site-0912,17.672,82.561,Sandstone,Confined,88,15.77,222,6.74,1768,647,60,1.12,Auger Drilling,Not Suitable,Poor
+West Godavari,Site-0913,14.6698,77.5829,Granite,Semi-confined,120,8.98,146,7.59,712,118,80,1.65,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0914,13.8749,78.1224,Alluvium,Confined,275,19.84,437,7.76,261,448,50,1.63,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0915,17.6552,79.8172,Basalt,Confined,277,15.92,432,7.89,1725,332,85,1.88,Auger Drilling,Not Suitable,Poor
+Krishna,Site-0916,15.3237,81.4977,Basalt,Unconfined,48,10.15,51,7.64,235,780,48,1.37,Auger Drilling,Not Suitable,Poor
+Anantapur,Site-0917,18.8175,83.034,Granite,Confined,79,12.7,337,8.03,1414,239,61,1.09,Down-the-Hole,Not Suitable,Good
+West Godavari,Site-0918,17.865,82.503,Alluvium,Semi-confined,155,7.62,470,7.35,279,209,8,1.89,Percussion Drilling,Suitable,Poor
+Guntur,Site-0919,17.8942,83.995,Sandstone,Semi-confined,240,19.66,321,7.23,1220,415,95,0.74,Rotary Drilling,Not Suitable,Good
+Guntur,Site-0920,14.9665,81.9826,Basalt,Unconfined,215,4.04,185,8.04,851,226,24,1.24,Rotary Drilling,Not Suitable,Good
+Anantapur,Site-0921,14.6591,82.8903,Limestone,Unconfined,182,18.31,386,7.1,1026,141,40,1.85,Auger Drilling,Suitable,Good
+Prakasam,Site-0922,14.6143,77.3644,Granite,Unconfined,32,3.92,294,6.59,1857,469,52,1.18,Down-the-Hole,Not Suitable,Good
+West Godavari,Site-0923,18.6379,83.2652,Basalt,Unconfined,201,5.03,382,8.34,1635,206,81,1.66,Auger Drilling,Not Suitable,Good
+Kadapa,Site-0924,14.0162,83.701,Alluvium,Confined,238,2.1,317,8.25,1381,292,64,1.19,Rotary Drilling,Not Suitable,Moderate
+Kurnool,Site-0925,16.6795,79.7191,Limestone,Semi-confined,206,4.45,352,7.32,1384,394,35,0.65,Rotary Drilling,Suitable,Poor
+Nellore,Site-0926,14.53,81.2368,Granite,Unconfined,237,12.63,432,7.01,462,690,24,1.67,Rotary Drilling,Suitable,Poor
+Kurnool,Site-0927,13.7947,77.2814,Basalt,Unconfined,66,14.31,118,8.43,766,215,74,0.21,Percussion Drilling,Not Suitable,Poor
+Chittoor,Site-0928,17.9798,77.0963,Granite,Semi-confined,135,10.05,125,7.95,1808,226,48,0.79,Auger Drilling,Suitable,Moderate
+East Godavari,Site-0929,17.0819,80.1039,Basalt,Confined,135,9.01,146,8.24,1957,778,32,1.08,Down-the-Hole,Not Suitable,Moderate
+Anantapur,Site-0930,14.5127,80.0331,Basalt,Unconfined,60,15.47,318,7.08,1046,213,37,0.45,Down-the-Hole,Suitable,Good
+Nellore,Site-0931,17.6143,80.3126,Limestone,Unconfined,262,8.26,379,6.95,611,382,62,1.93,Down-the-Hole,Not Suitable,Good
+Krishna,Site-0932,14.3234,83.3336,Granite,Confined,278,8.92,332,7.52,496,212,35,1.5,Down-the-Hole,Suitable,Poor
+Chittoor,Site-0933,14.6309,81.6081,Sandstone,Fractured,40,3.13,104,6.98,779,358,32,1.56,Percussion Drilling,Suitable,Poor
+Krishna,Site-0934,18.8647,77.0236,Granite,Semi-confined,244,12.22,50,7.46,583,211,94,0.75,Auger Drilling,Not Suitable,Moderate
+Guntur,Site-0935,16.5172,81.4019,Alluvium,Semi-confined,79,8.84,369,6.89,701,432,6,1.74,Down-the-Hole,Suitable,Moderate
+Kurnool,Site-0936,16.1949,80.4521,Shale,Unconfined,69,3.86,120,6.96,1974,144,27,1.04,Rotary Drilling,Suitable,Good
+East Godavari,Site-0937,15.6477,77.95,Alluvium,Confined,141,8.68,68,7.01,1403,518,16,1.98,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0938,15.0449,78.657,Granite,Unconfined,158,16.24,324,7.99,1758,346,6,1.06,Down-the-Hole,Suitable,Poor
+Kadapa,Site-0939,16.9438,81.8711,Granite,Fractured,140,16.32,219,6.7,1231,696,30,1.86,Down-the-Hole,Suitable,Good
+Nellore,Site-0940,17.1783,83.5426,Shale,Confined,43,15.3,371,7.64,1566,381,25,0.51,Percussion Drilling,Suitable,Good
+Anantapur,Site-0941,17.3946,78.371,Basalt,Confined,97,7.31,81,7.82,662,733,18,0.26,Percussion Drilling,Not Suitable,Moderate
+Guntur,Site-0942,18.0085,80.0228,Alluvium,Unconfined,111,10.53,53,6.84,271,645,23,1.43,Auger Drilling,Not Suitable,Good
+Chittoor,Site-0943,17.5865,78.4825,Basalt,Fractured,85,9.82,408,8.13,745,632,92,1.2,Down-the-Hole,Not Suitable,Moderate
+Kadapa,Site-0944,17.9727,81.1599,Alluvium,Confined,259,9.65,362,8.17,1111,385,41,0.67,Percussion Drilling,Not Suitable,Poor
+Anantapur,Site-0945,14.1776,79.0687,Limestone,Fractured,76,17.75,109,8.09,459,155,30,1.53,Rotary Drilling,Not Suitable,Poor
+Krishna,Site-0946,15.3676,81.5476,Alluvium,Confined,57,11.32,325,8.25,1836,229,31,1.83,Rotary Drilling,Not Suitable,Good
+East Godavari,Site-0947,16.3137,79.3738,Limestone,Unconfined,162,6.7,331,6.77,565,145,55,1.08,Percussion Drilling,Not Suitable,Good
+Kurnool,Site-0948,17.1927,77.6257,Basalt,Fractured,66,9.6,374,7.59,1710,429,59,0.5,Down-the-Hole,Not Suitable,Moderate
+Anantapur,Site-0949,13.1986,77.0807,Granite,Unconfined,45,3.51,134,8.02,1854,752,75,0.35,Percussion Drilling,Not Suitable,Moderate
+Chittoor,Site-0950,15.6339,83.2601,Alluvium,Semi-confined,59,16.17,433,8.44,252,253,46,0.76,Rotary Drilling,Not Suitable,Poor
+Guntur,Site-0951,17.5152,78.8256,Granite,Confined,274,7.17,317,8.32,356,254,23,1.68,Down-the-Hole,Not Suitable,Poor
+West Godavari,Site-0952,17.7299,79.1988,Shale,Unconfined,289,9.82,63,6.59,300,102,85,0.67,Percussion Drilling,Not Suitable,Moderate
+Prakasam,Site-0953,16.82,77.6208,Alluvium,Semi-confined,106,9.29,338,6.75,1045,252,35,1.12,Down-the-Hole,Suitable,Moderate
+Anantapur,Site-0954,15.1973,82.751,Limestone,Fractured,51,11.95,70,7.75,308,516,27,0.63,Auger Drilling,Not Suitable,Poor
+Prakasam,Site-0955,17.7191,77.119,Limestone,Confined,94,3.16,187,8.1,450,501,33,1.7,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0956,17.431,78.8313,Alluvium,Semi-confined,120,11.85,292,7.5,709,628,25,0.88,Percussion Drilling,Suitable,Poor
+Chittoor,Site-0957,15.3983,78.6956,Alluvium,Unconfined,102,14.54,366,7.86,1686,274,67,1.23,Down-the-Hole,Not Suitable,Moderate
+Guntur,Site-0958,13.9516,78.699,Shale,Confined,218,15.0,482,7.56,638,206,40,1.93,Down-the-Hole,Suitable,Good
+Krishna,Site-0959,18.2407,82.7543,Sandstone,Fractured,110,8.38,434,7.25,795,143,24,0.93,Percussion Drilling,Suitable,Poor
+Prakasam,Site-0960,15.0396,81.7823,Sandstone,Confined,41,14.04,290,7.25,1042,386,38,1.12,Rotary Drilling,Suitable,Good
+Chittoor,Site-0961,15.2102,80.8926,Limestone,Confined,171,7.97,118,7.43,1903,163,87,1.44,Rotary Drilling,Not Suitable,Moderate
+Anantapur,Site-0962,18.9588,79.0396,Basalt,Confined,136,19.46,471,7.21,1896,638,33,1.26,Rotary Drilling,Suitable,Moderate
+Kurnool,Site-0963,17.8402,82.6416,Granite,Unconfined,262,11.47,419,8.26,453,657,7,1.29,Percussion Drilling,Not Suitable,Good
+West Godavari,Site-0964,13.5485,81.7515,Shale,Confined,98,9.29,215,8.5,280,516,5,1.5,Rotary Drilling,Not Suitable,Poor
+East Godavari,Site-0965,15.98,83.7319,Shale,Unconfined,266,19.29,489,7.31,1331,637,2,0.22,Percussion Drilling,Suitable,Good
+Anantapur,Site-0966,18.9836,77.2058,Granite,Semi-confined,242,4.02,115,8.18,1272,113,32,1.44,Down-the-Hole,Not Suitable,Moderate
+Krishna,Site-0967,14.5833,78.9855,Limestone,Unconfined,242,18.5,367,7.86,1002,476,79,1.63,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0968,14.8674,77.4964,Granite,Semi-confined,85,11.71,165,6.96,1285,588,44,1.71,Percussion Drilling,Suitable,Moderate
+Kurnool,Site-0969,14.0236,82.0607,Basalt,Confined,67,6.32,190,7.17,1056,178,12,0.66,Rotary Drilling,Suitable,Poor
+Guntur,Site-0970,13.7803,80.7527,Alluvium,Unconfined,217,13.35,448,8.08,686,604,51,0.97,Rotary Drilling,Not Suitable,Poor
+Chittoor,Site-0971,13.6991,77.9015,Granite,Unconfined,128,17.75,78,7.54,616,469,50,0.92,Rotary Drilling,Not Suitable,Good
+Nellore,Site-0972,13.924,80.1894,Sandstone,Confined,81,19.15,443,6.94,897,464,7,1.67,Percussion Drilling,Suitable,Moderate
+West Godavari,Site-0973,13.6526,81.3846,Shale,Fractured,103,13.18,318,8.16,794,141,15,0.64,Rotary Drilling,Not Suitable,Poor
+Krishna,Site-0974,17.6815,79.3983,Basalt,Fractured,300,4.46,73,6.92,1521,483,79,1.5,Rotary Drilling,Not Suitable,Good
+Prakasam,Site-0975,15.7092,81.8578,Limestone,Unconfined,289,8.63,339,7.66,332,396,37,1.23,Rotary Drilling,Suitable,Poor
+Krishna,Site-0976,18.9514,81.0803,Basalt,Fractured,245,15.8,343,8.12,1980,772,38,1.69,Auger Drilling,Not Suitable,Good
+East Godavari,Site-0977,14.7733,80.7469,Sandstone,Fractured,157,4.64,339,6.71,243,612,40,1.23,Percussion Drilling,Suitable,Good
+Kurnool,Site-0978,13.6501,82.8743,Basalt,Semi-confined,102,15.97,270,7.31,1346,156,53,1.32,Rotary Drilling,Not Suitable,Poor
+Krishna,Site-0979,13.93,81.4817,Shale,Fractured,45,13.55,139,8.0,833,675,93,0.61,Percussion Drilling,Not Suitable,Moderate
+West Godavari,Site-0980,18.4472,81.5513,Limestone,Confined,38,17.05,195,8.16,905,517,85,0.41,Percussion Drilling,Not Suitable,Poor
+West Godavari,Site-0981,16.66,79.3894,Limestone,Confined,237,12.63,233,7.59,500,544,85,0.68,Auger Drilling,Not Suitable,Poor
+Nellore,Site-0982,15.0683,81.4125,Basalt,Unconfined,276,16.56,100,7.84,1604,249,99,0.54,Down-the-Hole,Not Suitable,Poor
+Prakasam,Site-0983,18.8828,82.253,Sandstone,Confined,166,9.18,126,6.98,1830,418,66,0.69,Rotary Drilling,Not Suitable,Good
+Kadapa,Site-0984,15.8705,78.5661,Granite,Fractured,230,18.33,249,6.63,312,219,98,0.9,Percussion Drilling,Not Suitable,Good
+Chittoor,Site-0985,17.0099,82.7002,Sandstone,Unconfined,54,19.02,242,7.56,1453,763,36,0.34,Rotary Drilling,Suitable,Poor
+Prakasam,Site-0986,13.3259,79.8545,Basalt,Confined,256,13.56,371,6.79,1694,477,29,1.35,Down-the-Hole,Suitable,Good
+Krishna,Site-0987,15.6439,81.1918,Shale,Confined,59,14.86,279,8.27,1686,512,98,1.75,Percussion Drilling,Not Suitable,Poor
+Kadapa,Site-0988,15.0673,80.8883,Granite,Fractured,272,18.61,74,8.46,1357,716,9,1.58,Down-the-Hole,Not Suitable,Good
+Nellore,Site-0989,18.6194,81.7224,Sandstone,Unconfined,129,5.57,282,6.96,471,421,46,1.49,Percussion Drilling,Suitable,Good
+Prakasam,Site-0990,18.4949,79.8092,Shale,Unconfined,267,2.19,484,8.49,536,794,14,0.34,Percussion Drilling,Not Suitable,Good
+Nellore,Site-0991,13.6757,82.2524,Basalt,Semi-confined,97,10.42,329,7.65,906,485,16,0.54,Auger Drilling,Suitable,Good
+East Godavari,Site-0992,14.7804,78.8522,Granite,Confined,195,2.86,492,7.29,1245,144,13,0.98,Down-the-Hole,Suitable,Good
+Kurnool,Site-0993,15.7104,81.7743,Granite,Fractured,270,11.62,122,8.31,1717,611,86,1.12,Percussion Drilling,Not Suitable,Good
+Anantapur,Site-0994,18.0037,81.4734,Shale,Confined,82,13.31,183,7.54,1059,275,74,1.18,Auger Drilling,Not Suitable,Poor
+West Godavari,Site-0995,15.6276,82.3051,Basalt,Confined,88,17.27,140,7.59,852,518,4,0.81,Auger Drilling,Suitable,Poor
+Anantapur,Site-0996,15.957,81.9197,Limestone,Fractured,236,14.25,110,7.41,1633,162,52,1.75,Auger Drilling,Not Suitable,Good
+Nellore,Site-0997,16.1097,82.6532,Granite,Semi-confined,31,8.77,123,6.67,1921,275,24,0.6,Down-the-Hole,Suitable,Moderate
+Kadapa,Site-0998,13.5171,79.7535,Alluvium,Semi-confined,37,15.99,326,8.48,414,371,52,1.22,Rotary Drilling,Not Suitable,Poor
+Kadapa,Site-0999,13.4365,80.9943,Sandstone,Fractured,263,15.59,70,7.62,1294,798,35,0.62,Down-the-Hole,Not Suitable,Poor
+Anantapur,Site-1000,18.7185,77.8881,Granite,Semi-confined,47,19.13,404,7.96,1556,655,56,1.96,Down-the-Hole,Not Suitable,Poor
